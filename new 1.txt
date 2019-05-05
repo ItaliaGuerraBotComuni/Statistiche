@@ -1,0 +1,1230 @@
+1o posto: Provincia di Teramo in Abruzzo - Sud
+	1 comune con 12 territori controllati:
+		Nereto (Teramo in Abruzzo - Sud) 
+	1 comune con 5 territori controllati:
+		Cellino Attanasio (Teramo in Abruzzo - Sud) 
+	1 comune con 4 territori controllati:
+		Mosciano Sant'Angelo (Teramo in Abruzzo - Sud) 
+	4 comuni con 3 territori controllati:
+		Castellalto (Teramo in Abruzzo - Sud) 
+		Fano Adriano (Teramo in Abruzzo - Sud) 
+		Montorio al Vomano (Teramo in Abruzzo - Sud) 
+		Silvi (Teramo in Abruzzo - Sud) 
+2o posto: Provincia di Bolzano/Bozen in Trentino-Alto Adige/Sudtirol - Nord-est
+	1 comune con 10 territori controllati:
+		Braies (Bolzano/Bozen in Trentino-Alto Adige/Sudtirol - Nord-est) 
+	1 comune con 5 territori controllati:
+		Senales (Bolzano/Bozen in Trentino-Alto Adige/Sudtirol - Nord-est) 
+	6 comuni con 4 territori controllati:
+		Bolzano (Bolzano/Bozen in Trentino-Alto Adige/Sudtirol - Nord-est) 
+		Brunico (Bolzano/Bozen in Trentino-Alto Adige/Sudtirol - Nord-est) 
+		Chiusa (Bolzano/Bozen in Trentino-Alto Adige/Sudtirol - Nord-est) 
+		San Leonardo in Passiria (Bolzano/Bozen in Trentino-Alto Adige/Sudtirol - Nord-est) 
+		Santa Cristina Valgardena (Bolzano/Bozen in Trentino-Alto Adige/Sudtirol - Nord-est) 
+		Tesimo (Bolzano/Bozen in Trentino-Alto Adige/Sudtirol - Nord-est) 
+	6 comuni con 3 territori controllati:
+		Funes (Bolzano/Bozen in Trentino-Alto Adige/Sudtirol - Nord-est) 
+		Lauregno (Bolzano/Bozen in Trentino-Alto Adige/Sudtirol - Nord-est) 
+		Naturno (Bolzano/Bozen in Trentino-Alto Adige/Sudtirol - Nord-est) 
+		Ora (Bolzano/Bozen in Trentino-Alto Adige/Sudtirol - Nord-est) 
+		Scena (Bolzano/Bozen in Trentino-Alto Adige/Sudtirol - Nord-est) 
+		Tires (Bolzano/Bozen in Trentino-Alto Adige/Sudtirol - Nord-est) 
+3o posto: Provincia di Ascoli Piceno in Marche - Centro
+	1 comune con 9 territori controllati:
+		Arquata del Tronto (Ascoli Piceno in Marche - Centro) 
+	1 comune con 6 territori controllati:
+		Massignano (Ascoli Piceno in Marche - Centro) 
+	1 comune con 4 territori controllati:
+		Appignano del Tronto (Ascoli Piceno in Marche - Centro) 
+	2 comuni con 3 territori controllati:
+		Montalto delle Marche (Ascoli Piceno in Marche - Centro) 
+		Roccafluvione (Ascoli Piceno in Marche - Centro) 
+4o posto: Provincia di Cosenza in Calabria - Sud
+	1 comune con 8 territori controllati:
+		Fiumefreddo Bruzio (Cosenza in Calabria - Sud) 
+	1 comune con 7 territori controllati:
+		Verbicaro (Cosenza in Calabria - Sud) 
+	1 comune con 6 territori controllati:
+		Mangone (Cosenza in Calabria - Sud) 
+	2 comuni con 5 territori controllati:
+		Altilia (Cosenza in Calabria - Sud) 
+		Spezzano Albanese (Cosenza in Calabria - Sud) 
+	3 comuni con 4 territori controllati:
+		Alessandria del Carretto (Cosenza in Calabria - Sud) 
+		Caloveto (Cosenza in Calabria - Sud) 
+		Carolei (Cosenza in Calabria - Sud) 
+	9 comuni con 3 territori controllati:
+		Bonifati (Cosenza in Calabria - Sud) 
+		Civita (Cosenza in Calabria - Sud) 
+		Guardia Piemontese (Cosenza in Calabria - Sud) 
+		Marzi (Cosenza in Calabria - Sud) 
+		Montalto Uffugo (Cosenza in Calabria - Sud) 
+		Pietrafitta (Cosenza in Calabria - Sud) 
+		San Pietro in Amantea (Cosenza in Calabria - Sud) 
+		San Sosti (Cosenza in Calabria - Sud) 
+		Saracena (Cosenza in Calabria - Sud) 
+5o posto: Provincia di L'Aquila in Abruzzo - Sud
+	1 comune con 8 territori controllati:
+		Ortucchio (L'Aquila in Abruzzo - Sud) 
+	1 comune con 6 territori controllati:
+		Villa Santa Lucia degli Abruzzi (L'Aquila in Abruzzo - Sud) 
+	1 comune con 5 territori controllati:
+		Villa Sant'Angelo (L'Aquila in Abruzzo - Sud) 
+	2 comuni con 4 territori controllati:
+		Magliano de' Marsi (L'Aquila in Abruzzo - Sud) 
+		Pettorano sul Gizio (L'Aquila in Abruzzo - Sud) 
+	8 comuni con 3 territori controllati:
+		Barrea (L'Aquila in Abruzzo - Sud) 
+		Capestrano (L'Aquila in Abruzzo - Sud) 
+		Civitella Roveto (L'Aquila in Abruzzo - Sud) 
+		Cocullo (L'Aquila in Abruzzo - Sud) 
+		Opi (L'Aquila in Abruzzo - Sud) 
+		Pereto (L'Aquila in Abruzzo - Sud) 
+		Tagliacozzo (L'Aquila in Abruzzo - Sud) 
+		Villalago (L'Aquila in Abruzzo - Sud) 
+6o posto: Provincia di Imperia in Liguria - Nord-ovest
+	1 comune con 8 territori controllati:
+		Sanremo (Imperia in Liguria - Nord-ovest) 
+	2 comuni con 5 territori controllati:
+		Ranzo (Imperia in Liguria - Nord-ovest) 
+		Villa Faraldi (Imperia in Liguria - Nord-ovest) 
+	2 comuni con 4 territori controllati:
+		Riva Ligure (Imperia in Liguria - Nord-ovest) 
+		Vallecrosia (Imperia in Liguria - Nord-ovest) 
+	6 comuni con 3 territori controllati:
+		Diano Castello (Imperia in Liguria - Nord-ovest) 
+		Isolabona (Imperia in Liguria - Nord-ovest) 
+		Molini di Triora (Imperia in Liguria - Nord-ovest) 
+		Olivetta San Michele (Imperia in Liguria - Nord-ovest) 
+		Pieve di Teco (Imperia in Liguria - Nord-ovest) 
+		San Lorenzo al Mare (Imperia in Liguria - Nord-ovest) 
+7o posto: Provincia di Pavia in Lombardia - Nord-ovest
+	1 comune con 8 territori controllati:
+		Marcignago (Pavia in Lombardia - Nord-ovest) 
+	1 comune con 5 territori controllati:
+		Ottobiano (Pavia in Lombardia - Nord-ovest) 
+	3 comuni con 4 territori controllati:
+		Mezzana Rabattone (Pavia in Lombardia - Nord-ovest) 
+		Pieve del Cairo (Pavia in Lombardia - Nord-ovest) 
+		Siziano (Pavia in Lombardia - Nord-ovest) 
+	10 comuni con 3 territori controllati:
+		Bascape' (Pavia in Lombardia - Nord-ovest) 
+		Broni (Pavia in Lombardia - Nord-ovest) 
+		Frascarolo (Pavia in Lombardia - Nord-ovest) 
+		Garlasco (Pavia in Lombardia - Nord-ovest) 
+		Gravellona Lomellina (Pavia in Lombardia - Nord-ovest) 
+		Gropello Cairoli (Pavia in Lombardia - Nord-ovest) 
+		Montecalvo Versiggia (Pavia in Lombardia - Nord-ovest) 
+		Pieve Porto Morone (Pavia in Lombardia - Nord-ovest) 
+		Sant'Alessio con Vialone (Pavia in Lombardia - Nord-ovest) 
+		Torricella Verzate (Pavia in Lombardia - Nord-ovest) 
+8o posto: Provincia di Sud Sardegna in Sardegna - Isole
+	1 comune con 8 territori controllati:
+		San Gavino Monreale (Sud Sardegna in Sardegna - Isole) 
+	1 comune con 5 territori controllati:
+		Siurgus Donigala (Sud Sardegna in Sardegna - Isole) 
+	3 comuni con 4 territori controllati:
+		Serramanna (Sud Sardegna in Sardegna - Isole) 
+		Siliqua (Sud Sardegna in Sardegna - Isole) 
+		Vallermosa (Sud Sardegna in Sardegna - Isole) 
+	7 comuni con 3 territori controllati:
+		Castiadas (Sud Sardegna in Sardegna - Isole) 
+		Guspini (Sud Sardegna in Sardegna - Isole) 
+		Nuraminis (Sud Sardegna in Sardegna - Isole) 
+		Santadi (Sud Sardegna in Sardegna - Isole) 
+		Sant'Antioco (Sud Sardegna in Sardegna - Isole) 
+		Teulada (Sud Sardegna in Sardegna - Isole) 
+		Tuili (Sud Sardegna in Sardegna - Isole) 
+9o posto: Provincia di Genova in Liguria - Nord-ovest
+	1 comune con 8 territori controllati:
+		Pieve Ligure (Genova in Liguria - Nord-ovest) 
+	2 comuni con 4 territori controllati:
+		Casella (Genova in Liguria - Nord-ovest) 
+		Montebruno (Genova in Liguria - Nord-ovest) 
+	1 comune con 3 territori controllati:
+		Mezzanego (Genova in Liguria - Nord-ovest) 
+10o posto: Provincia di Palermo in Sicilia - Isole
+	1 comune con 7 territori controllati:
+		Caltavuturo (Palermo in Sicilia - Isole) 
+	2 comuni con 6 territori controllati:
+		Campofiorito (Palermo in Sicilia - Isole) 
+		Cefalu' (Palermo in Sicilia - Isole) 
+	1 comune con 4 territori controllati:
+		Santa Flavia (Palermo in Sicilia - Isole) 
+	3 comuni con 3 territori controllati:
+		Borgetto (Palermo in Sicilia - Isole) 
+		Palermo (Palermo in Sicilia - Isole) 
+		Terrasini (Palermo in Sicilia - Isole) 
+11o posto: Provincia di Torino in Piemonte - Nord-ovest
+	1 comune con 7 territori controllati:
+		Villarbasse (Torino in Piemonte - Nord-ovest) 
+	1 comune con 6 territori controllati:
+		Rora' (Torino in Piemonte - Nord-ovest) 
+	5 comuni con 5 territori controllati:
+		Bardonecchia (Torino in Piemonte - Nord-ovest) 
+		Carema (Torino in Piemonte - Nord-ovest) 
+		Collegno (Torino in Piemonte - Nord-ovest) 
+		Prali (Torino in Piemonte - Nord-ovest) 
+		Roure (Torino in Piemonte - Nord-ovest) 
+	7 comuni con 4 territori controllati:
+		Candiolo (Torino in Piemonte - Nord-ovest) 
+		Colleretto Castelnuovo (Torino in Piemonte - Nord-ovest) 
+		Cossano Canavese (Torino in Piemonte - Nord-ovest) 
+		Forno Canavese (Torino in Piemonte - Nord-ovest) 
+		Rivarossa (Torino in Piemonte - Nord-ovest) 
+		Salassa (Torino in Piemonte - Nord-ovest) 
+		Virle Piemonte (Torino in Piemonte - Nord-ovest) 
+	18 comuni con 3 territori controllati:
+		Bosconero (Torino in Piemonte - Nord-ovest) 
+		Bussoleno (Torino in Piemonte - Nord-ovest) 
+		Casalborgone (Torino in Piemonte - Nord-ovest) 
+		Chialamberto (Torino in Piemonte - Nord-ovest) 
+		Chivasso (Torino in Piemonte - Nord-ovest) 
+		Cuceglio (Torino in Piemonte - Nord-ovest) 
+		Fiano (Torino in Piemonte - Nord-ovest) 
+		Frassinetto (Torino in Piemonte - Nord-ovest) 
+		Mompantero (Torino in Piemonte - Nord-ovest) 
+		Montalenghe (Torino in Piemonte - Nord-ovest) 
+		Monteu da Po (Torino in Piemonte - Nord-ovest) 
+		Rivara (Torino in Piemonte - Nord-ovest) 
+		San Carlo Canavese (Torino in Piemonte - Nord-ovest) 
+		San Giorgio Canavese (Torino in Piemonte - Nord-ovest) 
+		San Pietro Val Lemina (Torino in Piemonte - Nord-ovest) 
+		Torre Canavese (Torino in Piemonte - Nord-ovest) 
+		Usseglio (Torino in Piemonte - Nord-ovest) 
+		Venaria Reale (Torino in Piemonte - Nord-ovest) 
+12o posto: Provincia di Bergamo in Lombardia - Nord-ovest
+	1 comune con 7 territori controllati:
+		Mozzanica (Bergamo in Lombardia - Nord-ovest) 
+	1 comune con 6 territori controllati:
+		Cenate Sopra (Bergamo in Lombardia - Nord-ovest) 
+	3 comuni con 5 territori controllati:
+		Ambivere (Bergamo in Lombardia - Nord-ovest) 
+		Lallio (Bergamo in Lombardia - Nord-ovest) 
+		Palazzago (Bergamo in Lombardia - Nord-ovest) 
+	7 comuni con 4 territori controllati:
+		Blello (Bergamo in Lombardia - Nord-ovest) 
+		Carona (Bergamo in Lombardia - Nord-ovest) 
+		Chiuduno (Bergamo in Lombardia - Nord-ovest) 
+		Filago (Bergamo in Lombardia - Nord-ovest) 
+		Moio de' Calvi (Bergamo in Lombardia - Nord-ovest) 
+		Predore (Bergamo in Lombardia - Nord-ovest) 
+		Sovere (Bergamo in Lombardia - Nord-ovest) 
+	12 comuni con 3 territori controllati:
+		Antegnate (Bergamo in Lombardia - Nord-ovest) 
+		Bonate Sotto (Bergamo in Lombardia - Nord-ovest) 
+		Camerata Cornello (Bergamo in Lombardia - Nord-ovest) 
+		Comun Nuovo (Bergamo in Lombardia - Nord-ovest) 
+		Costa Valle Imagna (Bergamo in Lombardia - Nord-ovest) 
+		Ghisalba (Bergamo in Lombardia - Nord-ovest) 
+		Leffe (Bergamo in Lombardia - Nord-ovest) 
+		Lurano (Bergamo in Lombardia - Nord-ovest) 
+		Oneta (Bergamo in Lombardia - Nord-ovest) 
+		Santa Brigida (Bergamo in Lombardia - Nord-ovest) 
+		Vertova (Bergamo in Lombardia - Nord-ovest) 
+		Medolago (Bergamo in Lombardia - Nord-ovest) 
+13o posto: Provincia di Alessandria in Piemonte - Nord-ovest
+	1 comune con 7 territori controllati:
+		Lerma (Alessandria in Piemonte - Nord-ovest) 
+	1 comune con 6 territori controllati:
+		Silvano d'Orba (Alessandria in Piemonte - Nord-ovest) 
+	2 comuni con 5 territori controllati:
+		Frassinello Monferrato (Alessandria in Piemonte - Nord-ovest) 
+		Molino dei Torti (Alessandria in Piemonte - Nord-ovest) 
+	6 comuni con 4 territori controllati:
+		Casale Monferrato (Alessandria in Piemonte - Nord-ovest) 
+		Castelletto Merli (Alessandria in Piemonte - Nord-ovest) 
+		Castelnuovo Bormida (Alessandria in Piemonte - Nord-ovest) 
+		Cerrina Monferrato (Alessandria in Piemonte - Nord-ovest) 
+		Quattordio (Alessandria in Piemonte - Nord-ovest) 
+		Rivalta Bormida (Alessandria in Piemonte - Nord-ovest) 
+	11 comune con 3 territori controllati:
+		Alice Bel Colle (Alessandria in Piemonte - Nord-ovest) 
+		Bosco Marengo (Alessandria in Piemonte - Nord-ovest) 
+		Cabella Ligure (Alessandria in Piemonte - Nord-ovest) 
+		Camagna Monferrato (Alessandria in Piemonte - Nord-ovest) 
+		Castelletto d'Erro (Alessandria in Piemonte - Nord-ovest) 
+		Fabbrica Curone (Alessandria in Piemonte - Nord-ovest) 
+		Frascaro (Alessandria in Piemonte - Nord-ovest) 
+		Mongiardino Ligure (Alessandria in Piemonte - Nord-ovest) 
+		Pomaro Monferrato (Alessandria in Piemonte - Nord-ovest) 
+		Spigno Monferrato (Alessandria in Piemonte - Nord-ovest) 
+		Ticineto (Alessandria in Piemonte - Nord-ovest) 
+14o posto: Provincia di Sassari in Sardegna - Isole
+	1 comune con 7 territori controllati:
+		Santa Teresa Gallura (Sassari in Sardegna - Isole) 
+	1 comune con 6 territori controllati:
+		Viddalba (Sassari in Sardegna - Isole) 
+	2 comuni con 5 territori controllati:
+		Codrongianos (Sassari in Sardegna - Isole) 
+		Siligo (Sassari in Sardegna - Isole) 
+	1 comune con 4 territori controllati:
+		Castelsardo (Sassari in Sardegna - Isole) 
+	6 comuni con 3 territori controllati:
+		Aggius (Sassari in Sardegna - Isole) 
+		Anela (Sassari in Sardegna - Isole) 
+		Nughedu San Nicolo' (Sassari in Sardegna - Isole) 
+		Padria (Sassari in Sardegna - Isole) 
+		Sassari (Sassari in Sardegna - Isole) 
+		Golfo Aranci (Sassari in Sardegna - Isole) 
+15o posto: Provincia di Novara in Piemonte - Nord-ovest
+	1 comune con 7 territori controllati:
+		Dormelletto (Novara in Piemonte - Nord-ovest) 
+	1 comune con 6 territori controllati:
+		Casalino (Novara in Piemonte - Nord-ovest) 
+	1 comune con 5 territori controllati:
+		Ameno (Novara in Piemonte - Nord-ovest) 
+	1 comune con 4 territori controllati:
+		Prato Sesia (Novara in Piemonte - Nord-ovest) 
+	6 comuni con 3 territori controllati:
+		Cameri (Novara in Piemonte - Nord-ovest) 
+		Castellazzo Novarese (Novara in Piemonte - Nord-ovest) 
+		Massino Visconti (Novara in Piemonte - Nord-ovest) 
+		Momo (Novara in Piemonte - Nord-ovest) 
+		Oleggio (Novara in Piemonte - Nord-ovest) 
+		Paruzzaro (Novara in Piemonte - Nord-ovest) 
+16o posto: Provincia di Catania in Sicilia - Isole
+	1 comune con 7 territori controllati:
+		Fiumefreddo di Sicilia (Catania in Sicilia - Isole) 
+	1 comune con 6 territori controllati:
+		San Pietro Clarenza (Catania in Sicilia - Isole) 
+	3 comuni con 4 territori controllati:
+		Caltagirone (Catania in Sicilia - Isole) 
+		Santa Venerina (Catania in Sicilia - Isole) 
+		Maniace (Catania in Sicilia - Isole) 
+	3 comuni con 3 territori controllati:
+		Linguaglossa (Catania in Sicilia - Isole) 
+		Palagonia (Catania in Sicilia - Isole) 
+		Vizzini (Catania in Sicilia - Isole) 
+17o posto: Provincia di Rovigo in Veneto - Nord-est
+	1 comune con 7 territori controllati:
+		Bagnolo di Po (Rovigo in Veneto - Nord-est) 
+	1 comune con 6 territori controllati:
+		Crespino (Rovigo in Veneto - Nord-est) 
+	2 comuni con 3 territori controllati:
+		Bosaro (Rovigo in Veneto - Nord-est) 
+		Polesella (Rovigo in Veneto - Nord-est) 
+18o posto: Provincia di Pordenone in Friuli-Venezia Giulia - Nord-est
+	1 comune con 7 territori controllati:
+		Travesio (Pordenone in Friuli-Venezia Giulia - Nord-est) 
+	3 comuni con 5 territori controllati:
+		Pasiano di Pordenone (Pordenone in Friuli-Venezia Giulia - Nord-est) 
+		San Martino al Tagliamento (Pordenone in Friuli-Venezia Giulia - Nord-est) 
+		Tramonti di Sotto (Pordenone in Friuli-Venezia Giulia - Nord-est) 
+	2 comuni con 4 territori controllati:
+		Cimolais (Pordenone in Friuli-Venezia Giulia - Nord-est) 
+		Erto e Casso (Pordenone in Friuli-Venezia Giulia - Nord-est) 
+	2 comuni con 3 territori controllati:
+		Porcia (Pordenone in Friuli-Venezia Giulia - Nord-est) 
+		Tramonti di Sopra (Pordenone in Friuli-Venezia Giulia - Nord-est) 
+19o posto: Provincia di Salerno in Campania - Sud
+	1 comune con 7 territori controllati:
+		Sapri (Salerno in Campania - Sud) 
+	2 comuni con 5 territori controllati:
+		Castel San Lorenzo (Salerno in Campania - Sud) 
+		Sicignano degli Alburni (Salerno in Campania - Sud) 
+	10 comuni con 4 territori controllati:
+		Auletta (Salerno in Campania - Sud) 
+		Laurito (Salerno in Campania - Sud) 
+		Montecorvino Pugliano (Salerno in Campania - Sud) 
+		Positano (Salerno in Campania - Sud) 
+		Rutino (Salerno in Campania - Sud) 
+		Sala Consilina (Salerno in Campania - Sud) 
+		San Giovanni a Piro (Salerno in Campania - Sud) 
+		Sassano (Salerno in Campania - Sud) 
+		Valva (Salerno in Campania - Sud) 
+		Vietri sul Mare (Salerno in Campania - Sud) 
+	9 comuni con 3 territori controllati:
+		Angri (Salerno in Campania - Sud) 
+		Cannalonga (Salerno in Campania - Sud) 
+		Casal Velino (Salerno in Campania - Sud) 
+		Castiglione del Genovesi (Salerno in Campania - Sud) 
+		Ceraso (Salerno in Campania - Sud) 
+		Roccapiemonte (Salerno in Campania - Sud) 
+		Sacco (Salerno in Campania - Sud) 
+		Sant'Arsenio (Salerno in Campania - Sud) 
+		Tramonti (Salerno in Campania - Sud) 
+20o posto: Provincia di Avellino in Campania - Sud
+	1 comune con 7 territori controllati:
+		San Mango sul Calore (Avellino in Campania - Sud) 
+	2 comuni con 5 territori controllati:
+		Avellino (Avellino in Campania - Sud) 
+		Sant'Andrea di Conza (Avellino in Campania - Sud) 
+	11 comune con 3 territori controllati:
+		Avella (Avellino in Campania - Sud) 
+		Calabritto (Avellino in Campania - Sud) 
+		Flumeri (Avellino in Campania - Sud) 
+		Fontanarosa (Avellino in Campania - Sud) 
+		Guardia Lombardi (Avellino in Campania - Sud) 
+		Lacedonia (Avellino in Campania - Sud) 
+		Lioni (Avellino in Campania - Sud) 
+		San Martino Valle Caudina (Avellino in Campania - Sud) 
+		San Sossio Baronia (Avellino in Campania - Sud) 
+		Torrioni (Avellino in Campania - Sud) 
+		Volturara Irpina (Avellino in Campania - Sud) 
+21o posto: Provincia di Vicenza in Veneto - Nord-est
+	1 comune con 7 territori controllati:
+		Brendola (Vicenza in Veneto - Nord-est) 
+	1 comune con 5 territori controllati:
+		Carre' (Vicenza in Veneto - Nord-est) 
+	2 comuni con 4 territori controllati:
+		Asiago (Vicenza in Veneto - Nord-est) 
+		Lastebasse (Vicenza in Veneto - Nord-est) 
+	8 comuni con 3 territori controllati:
+		Albettone (Vicenza in Veneto - Nord-est) 
+		Cartigliano (Vicenza in Veneto - Nord-est) 
+		Costabissara (Vicenza in Veneto - Nord-est) 
+		Grisignano di Zocco (Vicenza in Veneto - Nord-est) 
+		Montecchio Maggiore (Vicenza in Veneto - Nord-est) 
+		Nanto (Vicenza in Veneto - Nord-est) 
+		Posina (Vicenza in Veneto - Nord-est) 
+		Quinto Vicentino (Vicenza in Veneto - Nord-est) 
+22o posto: Provincia di Campobasso in Molise - Sud
+	1 comune con 7 territori controllati:
+		Tavenna (Campobasso in Molise - Sud) 
+	3 comuni con 4 territori controllati:
+		Campobasso (Campobasso in Molise - Sud) 
+		Fossalto (Campobasso in Molise - Sud) 
+		San Martino in Pensilis (Campobasso in Molise - Sud) 
+	6 comuni con 3 territori controllati:
+		Campodipietra (Campobasso in Molise - Sud) 
+		Lupara (Campobasso in Molise - Sud) 
+		Macchia Valfortore (Campobasso in Molise - Sud) 
+		Montagano (Campobasso in Molise - Sud) 
+		San Giacomo degli Schiavoni (Campobasso in Molise - Sud) 
+		San Massimo (Campobasso in Molise - Sud) 
+23o posto: Provincia di Venezia in Veneto - Nord-est
+	1 comune con 7 territori controllati:
+		Jesolo (Venezia in Veneto - Nord-est) 
+	2 comuni con 4 territori controllati:
+		Concordia Sagittaria (Venezia in Veneto - Nord-est) 
+		Fosso' (Venezia in Veneto - Nord-est) 
+	4 comuni con 3 territori controllati:
+		San Michele al Tagliamento (Venezia in Veneto - Nord-est) 
+		Scorze' (Venezia in Veneto - Nord-est) 
+		Spinea (Venezia in Veneto - Nord-est) 
+		Cavallino-Treporti (Venezia in Veneto - Nord-est) 
+24o posto: Provincia di Brescia in Lombardia - Nord-ovest
+	2 comuni con 6 territori controllati:
+		Mura (Brescia in Lombardia - Nord-ovest) 
+		Puegnago sul Garda (Brescia in Lombardia - Nord-ovest) 
+	5 comuni con 5 territori controllati:
+		Gardone Val Trompia (Brescia in Lombardia - Nord-ovest) 
+		Gottolengo (Brescia in Lombardia - Nord-ovest) 
+		Gussago (Brescia in Lombardia - Nord-ovest) 
+		Ossimo (Brescia in Lombardia - Nord-ovest) 
+		Villachiara (Brescia in Lombardia - Nord-ovest) 
+	1 comune con 4 territori controllati:
+		Braone (Brescia in Lombardia - Nord-ovest) 
+	9 comuni con 3 territori controllati:
+		Bagolino (Brescia in Lombardia - Nord-ovest) 
+		Barbariga (Brescia in Lombardia - Nord-ovest) 
+		Edolo (Brescia in Lombardia - Nord-ovest) 
+		Ghedi (Brescia in Lombardia - Nord-ovest) 
+		Incudine (Brescia in Lombardia - Nord-ovest) 
+		Monticelli Brusati (Brescia in Lombardia - Nord-ovest) 
+		Odolo (Brescia in Lombardia - Nord-ovest) 
+		Sellero (Brescia in Lombardia - Nord-ovest) 
+		Travagliato (Brescia in Lombardia - Nord-ovest) 
+25o posto: Provincia di Padova in Veneto - Nord-est
+	2 comuni con 6 territori controllati:
+		Cinto Euganeo (Padova in Veneto - Nord-est) 
+		Piombino Dese (Padova in Veneto - Nord-est) 
+	2 comuni con 5 territori controllati:
+		Padova (Padova in Veneto - Nord-est) 
+		Torreglia (Padova in Veneto - Nord-est) 
+	3 comuni con 3 territori controllati:
+		Conselve (Padova in Veneto - Nord-est) 
+		Grantorto (Padova in Veneto - Nord-est) 
+		Loreggia (Padova in Veneto - Nord-est) 
+26o posto: Provincia di Roma in Lazio - Centro
+	2 comuni con 6 territori controllati:
+		Monte Compatri (Roma in Lazio - Centro) 
+		Vallepietra (Roma in Lazio - Centro) 
+	1 comune con 5 territori controllati:
+		Sant'Angelo Romano (Roma in Lazio - Centro) 
+	4 comuni con 4 territori controllati:
+		Capena (Roma in Lazio - Centro) 
+		Marano Equo (Roma in Lazio - Centro) 
+		Rocca di Cave (Roma in Lazio - Centro) 
+		San Polo dei Cavalieri (Roma in Lazio - Centro) 
+	4 comuni con 3 territori controllati:
+		Castel Gandolfo (Roma in Lazio - Centro) 
+		Monteflavio (Roma in Lazio - Centro) 
+		Percile (Roma in Lazio - Centro) 
+		San Vito Romano (Roma in Lazio - Centro) 
+27o posto: Provincia di Cuneo in Piemonte - Nord-ovest
+	1 comune con 6 territori controllati:
+		Lequio Tanaro (Cuneo in Piemonte - Nord-ovest) 
+	3 comuni con 5 territori controllati:
+		Envie (Cuneo in Piemonte - Nord-ovest) 
+		Oncino (Cuneo in Piemonte - Nord-ovest) 
+		Pietraporzio (Cuneo in Piemonte - Nord-ovest) 
+	6 comuni con 4 territori controllati:
+		Albaretto della Torre (Cuneo in Piemonte - Nord-ovest) 
+		Castagnito (Cuneo in Piemonte - Nord-ovest) 
+		Chiusa di Pesio (Cuneo in Piemonte - Nord-ovest) 
+		Moretta (Cuneo in Piemonte - Nord-ovest) 
+		Priola (Cuneo in Piemonte - Nord-ovest) 
+		San Damiano Macra (Cuneo in Piemonte - Nord-ovest) 
+	14 comuni con 3 territori controllati:
+		Alba (Cuneo in Piemonte - Nord-ovest) 
+		Beinette (Cuneo in Piemonte - Nord-ovest) 
+		Benevello (Cuneo in Piemonte - Nord-ovest) 
+		Bosia (Cuneo in Piemonte - Nord-ovest) 
+		Briaglia (Cuneo in Piemonte - Nord-ovest) 
+		Castelletto Uzzone (Cuneo in Piemonte - Nord-ovest) 
+		Cherasco (Cuneo in Piemonte - Nord-ovest) 
+		Cossano Belbo (Cuneo in Piemonte - Nord-ovest) 
+		Lagnasco (Cuneo in Piemonte - Nord-ovest) 
+		Limone Piemonte (Cuneo in Piemonte - Nord-ovest) 
+		Melle (Cuneo in Piemonte - Nord-ovest) 
+		Rocca Ciglie' (Cuneo in Piemonte - Nord-ovest) 
+		Roccasparvera (Cuneo in Piemonte - Nord-ovest) 
+		Torresina (Cuneo in Piemonte - Nord-ovest) 
+28o posto: Provincia di Sondrio in Lombardia - Nord-ovest
+	1 comune con 6 territori controllati:
+		Talamona (Sondrio in Lombardia - Nord-ovest) 
+	2 comuni con 5 territori controllati:
+		Lanzada (Sondrio in Lombardia - Nord-ovest) 
+		Piateda (Sondrio in Lombardia - Nord-ovest) 
+	2 comuni con 4 territori controllati:
+		Grosio (Sondrio in Lombardia - Nord-ovest) 
+		Teglio (Sondrio in Lombardia - Nord-ovest) 
+	4 comuni con 3 territori controllati:
+		Castione Andevenno (Sondrio in Lombardia - Nord-ovest) 
+		Novate Mezzola (Sondrio in Lombardia - Nord-ovest) 
+		Rasura (Sondrio in Lombardia - Nord-ovest) 
+		Valdidentro (Sondrio in Lombardia - Nord-ovest) 
+29o posto: Provincia di Fermo in Marche - Centro
+	1 comune con 6 territori controllati:
+		Montelparo (Fermo in Marche - Centro) 
+	2 comuni con 5 territori controllati:
+		Grottazzolina (Fermo in Marche - Centro) 
+		Monte Vidon Corrado (Fermo in Marche - Centro) 
+	1 comune con 4 territori controllati:
+		Moresco (Fermo in Marche - Centro) 
+30o posto: Provincia di Gorizia in Friuli-Venezia Giulia - Nord-est
+	1 comune con 6 territori controllati:
+		Sagrado (Gorizia in Friuli-Venezia Giulia - Nord-est) 
+	2 comuni con 5 territori controllati:
+		Dolegna del Collio (Gorizia in Friuli-Venezia Giulia - Nord-est) 
+		San Floriano del Collio (Gorizia in Friuli-Venezia Giulia - Nord-est) 
+	2 comuni con 3 territori controllati:
+		Grado (Gorizia in Friuli-Venezia Giulia - Nord-est) 
+		Villesse (Gorizia in Friuli-Venezia Giulia - Nord-est) 
+31o posto: Provincia di Trento in Trentino-Alto Adige/Sudtirol - Nord-est
+	1 comune con 6 territori controllati:
+		Segonzano (Trento in Trentino-Alto Adige/Sudtirol - Nord-est) 
+	1 comune con 5 territori controllati:
+		Arco (Trento in Trentino-Alto Adige/Sudtirol - Nord-est) 
+	5 comuni con 4 territori controllati:
+		Caderzone Terme (Trento in Trentino-Alto Adige/Sudtirol - Nord-est) 
+		Cagno' (Trento in Trentino-Alto Adige/Sudtirol - Nord-est) 
+		Cavedago (Trento in Trentino-Alto Adige/Sudtirol - Nord-est) 
+		Civezzano (Trento in Trentino-Alto Adige/Sudtirol - Nord-est) 
+		Telve (Trento in Trentino-Alto Adige/Sudtirol - Nord-est) 
+	6 comuni con 3 territori controllati:
+		Fai della Paganella (Trento in Trentino-Alto Adige/Sudtirol - Nord-est) 
+		Fondo (Trento in Trentino-Alto Adige/Sudtirol - Nord-est) 
+		Riva del Garda (Trento in Trentino-Alto Adige/Sudtirol - Nord-est) 
+		Rovere' della Luna (Trento in Trentino-Alto Adige/Sudtirol - Nord-est) 
+		Stenico (Trento in Trentino-Alto Adige/Sudtirol - Nord-est) 
+		Terragnolo (Trento in Trentino-Alto Adige/Sudtirol - Nord-est) 
+32o posto: Provincia di Vercelli in Piemonte - Nord-ovest
+	1 comune con 6 territori controllati:
+		Lozzolo (Vercelli in Piemonte - Nord-ovest) 
+	1 comune con 5 territori controllati:
+		Prarolo (Vercelli in Piemonte - Nord-ovest) 
+	4 comuni con 4 territori controllati:
+		Greggio (Vercelli in Piemonte - Nord-ovest) 
+		Palazzolo Vercellese (Vercelli in Piemonte - Nord-ovest) 
+		Quarona (Vercelli in Piemonte - Nord-ovest) 
+		San Germano Vercellese (Vercelli in Piemonte - Nord-ovest) 
+	7 comuni con 3 territori controllati:
+		Alice Castello (Vercelli in Piemonte - Nord-ovest) 
+		Balmuccia (Vercelli in Piemonte - Nord-ovest) 
+		Buronzo (Vercelli in Piemonte - Nord-ovest) 
+		Cigliano (Vercelli in Piemonte - Nord-ovest) 
+		Oldenico (Vercelli in Piemonte - Nord-ovest) 
+		Rimella (Vercelli in Piemonte - Nord-ovest) 
+		Scopello (Vercelli in Piemonte - Nord-ovest) 
+33o posto: Provincia di Asti in Piemonte - Nord-ovest
+	1 comune con 6 territori controllati:
+		Montabone (Asti in Piemonte - Nord-ovest) 
+	1 comune con 5 territori controllati:
+		Grana (Asti in Piemonte - Nord-ovest) 
+	4 comuni con 4 territori controllati:
+		Corsione (Asti in Piemonte - Nord-ovest) 
+		Pino d'Asti (Asti in Piemonte - Nord-ovest) 
+		Vigliano d'Asti (Asti in Piemonte - Nord-ovest) 
+		Vinchio (Asti in Piemonte - Nord-ovest) 
+	4 comuni con 3 territori controllati:
+		Albugnano (Asti in Piemonte - Nord-ovest) 
+		Cortandone (Asti in Piemonte - Nord-ovest) 
+		Cossombrato (Asti in Piemonte - Nord-ovest) 
+		Olmo Gentile (Asti in Piemonte - Nord-ovest) 
+34o posto: Provincia di Chieti in Abruzzo - Sud
+	1 comune con 6 territori controllati:
+		Roccaspinalveti (Chieti in Abruzzo - Sud) 
+	1 comune con 5 territori controllati:
+		Pollutri (Chieti in Abruzzo - Sud) 
+	3 comuni con 4 territori controllati:
+		Fossacesia (Chieti in Abruzzo - Sud) 
+		Pizzoferrato (Chieti in Abruzzo - Sud) 
+		San Martino sulla Marrucina (Chieti in Abruzzo - Sud) 
+	5 comuni con 3 territori controllati:
+		Castel Frentano (Chieti in Abruzzo - Sud) 
+		Chieti (Chieti in Abruzzo - Sud) 
+		Rosello (Chieti in Abruzzo - Sud) 
+		San Salvo (Chieti in Abruzzo - Sud) 
+		Scerni (Chieti in Abruzzo - Sud) 
+35o posto: Provincia di Varese in Lombardia - Nord-ovest
+	1 comune con 6 territori controllati:
+		Gallarate (Varese in Lombardia - Nord-ovest) 
+	1 comune con 5 territori controllati:
+		Daverio (Varese in Lombardia - Nord-ovest) 
+	2 comuni con 4 territori controllati:
+		Buguggiate (Varese in Lombardia - Nord-ovest) 
+		Lonate Ceppino (Varese in Lombardia - Nord-ovest) 
+	9 comuni con 3 territori controllati:
+		Brinzio (Varese in Lombardia - Nord-ovest) 
+		Casorate Sempione (Varese in Lombardia - Nord-ovest) 
+		Castiglione Olona (Varese in Lombardia - Nord-ovest) 
+		Cunardo (Varese in Lombardia - Nord-ovest) 
+		Cuvio (Varese in Lombardia - Nord-ovest) 
+		Mesenzana (Varese in Lombardia - Nord-ovest) 
+		Porto Valtravaglia (Varese in Lombardia - Nord-ovest) 
+		Sumirago (Varese in Lombardia - Nord-ovest) 
+		Varese (Varese in Lombardia - Nord-ovest) 
+36o posto: Provincia di Verona in Veneto - Nord-est
+	1 comune con 6 territori controllati:
+		Sona (Verona in Veneto - Nord-est) 
+	1 comune con 5 territori controllati:
+		Legnago (Verona in Veneto - Nord-est) 
+	2 comuni con 4 territori controllati:
+		Marano di Valpolicella (Verona in Veneto - Nord-est) 
+		Valeggio sul Mincio (Verona in Veneto - Nord-est) 
+	8 comuni con 3 territori controllati:
+		Angiari (Verona in Veneto - Nord-est) 
+		Cerro Veronese (Verona in Veneto - Nord-est) 
+		Cologna Veneta (Verona in Veneto - Nord-est) 
+		Erbezzo (Verona in Veneto - Nord-est) 
+		Illasi (Verona in Veneto - Nord-est) 
+		Sanguinetto (Verona in Veneto - Nord-est) 
+		Trevenzuolo (Verona in Veneto - Nord-est) 
+		Verona (Verona in Veneto - Nord-est) 
+37o posto: Provincia di Caserta in Campania - Sud
+	1 comune con 6 territori controllati:
+		Fontegreca (Caserta in Campania - Sud) 
+	1 comune con 5 territori controllati:
+		Sessa Aurunca (Caserta in Campania - Sud) 
+	2 comuni con 4 territori controllati:
+		Capodrise (Caserta in Campania - Sud) 
+		Santa Maria la Fossa (Caserta in Campania - Sud) 
+	7 comuni con 3 territori controllati:
+		Capua (Caserta in Campania - Sud) 
+		Francolise (Caserta in Campania - Sud) 
+		Orta di Atella (Caserta in Campania - Sud) 
+		Pietramelara (Caserta in Campania - Sud) 
+		Ruviano (Caserta in Campania - Sud) 
+		San Pietro Infine (Caserta in Campania - Sud) 
+		San Tammaro (Caserta in Campania - Sud) 
+38o posto: Provincia di Pesaro e Urbino in Marche - Centro
+	1 comune con 6 territori controllati:
+		Piobbico (Pesaro e Urbino in Marche - Centro) 
+	1 comune con 5 territori controllati:
+		Pietrarubbia (Pesaro e Urbino in Marche - Centro) 
+	2 comuni con 4 territori controllati:
+		Peglio (Pesaro e Urbino in Marche - Centro) 
+		Petriano (Pesaro e Urbino in Marche - Centro) 
+	1 comune con 3 territori controllati:
+		Tavoleto (Pesaro e Urbino in Marche - Centro) 
+39o posto: Provincia di Verbano-Cusio-Ossola in Piemonte - Nord-ovest
+	1 comune con 6 territori controllati:
+		Crodo (Verbano-Cusio-Ossola in Piemonte - Nord-ovest) 
+	1 comune con 5 territori controllati:
+		Ornavasso (Verbano-Cusio-Ossola in Piemonte - Nord-ovest) 
+	1 comune con 4 territori controllati:
+		Trontano (Verbano-Cusio-Ossola in Piemonte - Nord-ovest) 
+	5 comuni con 3 territori controllati:
+		Aurano (Verbano-Cusio-Ossola in Piemonte - Nord-ovest) 
+		Ghiffa (Verbano-Cusio-Ossola in Piemonte - Nord-ovest) 
+		Macugnaga (Verbano-Cusio-Ossola in Piemonte - Nord-ovest) 
+		Oggebbio (Verbano-Cusio-Ossola in Piemonte - Nord-ovest) 
+		Omegna (Verbano-Cusio-Ossola in Piemonte - Nord-ovest) 
+40o posto: Provincia di Mantova in Lombardia - Nord-ovest
+	1 comune con 6 territori controllati:
+		Gazzuolo (Mantova in Lombardia - Nord-ovest) 
+	1 comune con 5 territori controllati:
+		Roverbella (Mantova in Lombardia - Nord-ovest) 
+	1 comune con 4 territori controllati:
+		Pegognaga (Mantova in Lombardia - Nord-ovest) 
+	4 comuni con 3 territori controllati:
+		Bagnolo San Vito (Mantova in Lombardia - Nord-ovest) 
+		Rodigo (Mantova in Lombardia - Nord-ovest) 
+		Sustinente (Mantova in Lombardia - Nord-ovest) 
+		Volta Mantovana (Mantova in Lombardia - Nord-ovest) 
+41o posto: Provincia di Biella in Piemonte - Nord-ovest
+	1 comune con 6 territori controllati:
+		Sagliano Micca (Biella in Piemonte - Nord-ovest) 
+	1 comune con 5 territori controllati:
+		Sordevolo (Biella in Piemonte - Nord-ovest) 
+	1 comune con 4 territori controllati:
+		Borriana (Biella in Piemonte - Nord-ovest) 
+	4 comuni con 3 territori controllati:
+		Callabiana (Biella in Piemonte - Nord-ovest) 
+		Caprile (Biella in Piemonte - Nord-ovest) 
+		Dorzano (Biella in Piemonte - Nord-ovest) 
+		Valdengo (Biella in Piemonte - Nord-ovest) 
+42o posto: Provincia di Rieti in Lazio - Centro
+	1 comune con 6 territori controllati:
+		Varco Sabino (Rieti in Lazio - Centro) 
+	1 comune con 5 territori controllati:
+		Configni (Rieti in Lazio - Centro) 
+	4 comuni con 3 territori controllati:
+		Borbona (Rieti in Lazio - Centro) 
+		Collevecchio (Rieti in Lazio - Centro) 
+		Labro (Rieti in Lazio - Centro) 
+		Toffia (Rieti in Lazio - Centro) 
+43o posto: Provincia di Bologna in Emilia-Romagna - Nord-est
+	1 comune con 6 territori controllati:
+		Calderara di Reno (Bologna in Emilia-Romagna - Nord-est) 
+	1 comune con 5 territori controllati:
+		Gaggio Montano (Bologna in Emilia-Romagna - Nord-est) 
+	1 comune con 3 territori controllati:
+		Castello d'Argile (Bologna in Emilia-Romagna - Nord-est) 
+44o posto: Provincia di Napoli in Campania - Sud
+	1 comune con 6 territori controllati:
+		Acerra (Napoli in Campania - Sud) 
+	5 comuni con 4 territori controllati:
+		Casoria (Napoli in Campania - Sud) 
+		Giugliano in Campania (Napoli in Campania - Sud) 
+		Melito di Napoli (Napoli in Campania - Sud) 
+		Procida (Napoli in Campania - Sud) 
+		Volla (Napoli in Campania - Sud) 
+	5 comuni con 3 territori controllati:
+		Barano d'Ischia (Napoli in Campania - Sud) 
+		Lettere (Napoli in Campania - Sud) 
+		Meta (Napoli in Campania - Sud) 
+		Terzigno (Napoli in Campania - Sud) 
+		Tufino (Napoli in Campania - Sud) 
+45o posto: Provincia di Udine in Friuli-Venezia Giulia - Nord-est
+	1 comune con 6 territori controllati:
+		Colloredo di Monte Albano (Udine in Friuli-Venezia Giulia - Nord-est) 
+	4 comuni con 4 territori controllati:
+		Cervignano del Friuli (Udine in Friuli-Venezia Giulia - Nord-est) 
+		Gemona del Friuli (Udine in Friuli-Venezia Giulia - Nord-est) 
+		Gonars (Udine in Friuli-Venezia Giulia - Nord-est) 
+		Trasaghis (Udine in Friuli-Venezia Giulia - Nord-est) 
+	4 comuni con 3 territori controllati:
+		Dignano (Udine in Friuli-Venezia Giulia - Nord-est) 
+		Nimis (Udine in Friuli-Venezia Giulia - Nord-est) 
+		Resiutta (Udine in Friuli-Venezia Giulia - Nord-est) 
+		Sutrio (Udine in Friuli-Venezia Giulia - Nord-est) 
+46o posto: Provincia di Messina in Sicilia - Isole
+	1 comune con 6 territori controllati:
+		Malfa (Messina in Sicilia - Isole) 
+	3 comuni con 4 territori controllati:
+		Mazzarra' Sant'Andrea (Messina in Sicilia - Isole) 
+		Sant'Angelo di Brolo (Messina in Sicilia - Isole) 
+		Santa Teresa di Riva (Messina in Sicilia - Isole) 
+	5 comuni con 3 territori controllati:
+		Casalvecchio Siculo (Messina in Sicilia - Isole) 
+		Itala (Messina in Sicilia - Isole) 
+		Limina (Messina in Sicilia - Isole) 
+		Villafranca Tirrena (Messina in Sicilia - Isole) 
+		Acquedolci (Messina in Sicilia - Isole) 
+47o posto: Provincia di Reggio Calabria in Calabria - Sud
+	1 comune con 6 territori controllati:
+		Gioia Tauro (Reggio Calabria in Calabria - Sud) 
+	3 comuni con 4 territori controllati:
+		Cittanova (Reggio Calabria in Calabria - Sud) 
+		Molochio (Reggio Calabria in Calabria - Sud) 
+		Stignano (Reggio Calabria in Calabria - Sud) 
+	5 comuni con 3 territori controllati:
+		Locri (Reggio Calabria in Calabria - Sud) 
+		Marina di Gioiosa Ionica (Reggio Calabria in Calabria - Sud) 
+		Palizzi (Reggio Calabria in Calabria - Sud) 
+		Santo Stefano in Aspromonte (Reggio Calabria in Calabria - Sud) 
+		Serrata (Reggio Calabria in Calabria - Sud) 
+48o posto: Provincia di Potenza in Basilicata - Sud
+	1 comune con 6 territori controllati:
+		Castronuovo di Sant'Andrea (Potenza in Basilicata - Sud) 
+	2 comuni con 4 territori controllati:
+		Baragiano (Potenza in Basilicata - Sud) 
+		Venosa (Potenza in Basilicata - Sud) 
+	7 comuni con 3 territori controllati:
+		Balvano (Potenza in Basilicata - Sud) 
+		Brindisi Montagna (Potenza in Basilicata - Sud) 
+		Laurenzana (Potenza in Basilicata - Sud) 
+		Marsico Nuovo (Potenza in Basilicata - Sud) 
+		Pietragalla (Potenza in Basilicata - Sud) 
+		Ripacandida (Potenza in Basilicata - Sud) 
+		San Martino d'Agri (Potenza in Basilicata - Sud) 
+49o posto: Provincia di Lecco in Lombardia - Nord-ovest
+	1 comune con 6 territori controllati:
+		Valgreghentino (Lecco in Lombardia - Nord-ovest) 
+	2 comuni con 4 territori controllati:
+		Paderno d'Adda (Lecco in Lombardia - Nord-ovest) 
+		Parlasco (Lecco in Lombardia - Nord-ovest) 
+	5 comuni con 3 territori controllati:
+		Introbio (Lecco in Lombardia - Nord-ovest) 
+		Lecco (Lecco in Lombardia - Nord-ovest) 
+		Missaglia (Lecco in Lombardia - Nord-ovest) 
+		Oggiono (Lecco in Lombardia - Nord-ovest) 
+		Premana (Lecco in Lombardia - Nord-ovest) 
+50o posto: Provincia di Perugia in Umbria - Centro
+	1 comune con 6 territori controllati:
+		Panicale (Perugia in Umbria - Centro) 
+	2 comuni con 4 territori controllati:
+		Giano dell'Umbria (Perugia in Umbria - Centro) 
+		Scheggino (Perugia in Umbria - Centro) 
+	4 comuni con 3 territori controllati:
+		Citta' della Pieve (Perugia in Umbria - Centro) 
+		Magione (Perugia in Umbria - Centro) 
+		Monteleone di Spoleto (Perugia in Umbria - Centro) 
+		Spello (Perugia in Umbria - Centro) 
+51o posto: Provincia di Taranto in Puglia - Sud
+	1 comune con 6 territori controllati:
+		Castellaneta (Taranto in Puglia - Sud) 
+	1 comune con 4 territori controllati:
+		San Marzano di San Giuseppe (Taranto in Puglia - Sud) 
+	2 comuni con 3 territori controllati:
+		Ginosa (Taranto in Puglia - Sud) 
+		Pulsano (Taranto in Puglia - Sud) 
+52o posto: Provincia di Lucca in Toscana - Centro
+	1 comune con 6 territori controllati:
+		Careggine (Lucca in Toscana - Centro) 
+	1 comune con 4 territori controllati:
+		Montecarlo (Lucca in Toscana - Centro) 
+53o posto: Provincia di Foggia in Puglia - Sud
+	1 comune con 6 territori controllati:
+		Mattinata (Foggia in Puglia - Sud) 
+	5 comuni con 3 territori controllati:
+		Castelluccio Valmaggiore (Foggia in Puglia - Sud) 
+		Foggia (Foggia in Puglia - Sud) 
+		San Nicandro Garganico (Foggia in Puglia - Sud) 
+		Sant'Agata di Puglia (Foggia in Puglia - Sud) 
+		Volturino (Foggia in Puglia - Sud) 
+54o posto: Provincia di Enna in Sicilia - Isole
+	1 comune con 6 territori controllati:
+		Assoro (Enna in Sicilia - Isole) 
+	1 comune con 3 territori controllati:
+		Piazza Armerina (Enna in Sicilia - Isole) 
+55o posto: Provincia di Latina in Lazio - Centro
+	1 comune con 6 territori controllati:
+		Fondi (Latina in Lazio - Centro) 
+	1 comune con 3 territori controllati:
+		Minturno (Latina in Lazio - Centro) 
+56o posto: Provincia di Siracusa in Sicilia - Isole
+	1 comune con 6 territori controllati:
+		Solarino (Siracusa in Sicilia - Isole) 
+57o posto: Provincia di Parma in Emilia-Romagna - Nord-est
+	3 comuni con 5 territori controllati:
+		Albareto (Parma in Emilia-Romagna - Nord-est) 
+		Pellegrino Parmense (Parma in Emilia-Romagna - Nord-est) 
+		Sala Baganza (Parma in Emilia-Romagna - Nord-est) 
+	4 comuni con 3 territori controllati:
+		Berceto (Parma in Emilia-Romagna - Nord-est) 
+		Colorno (Parma in Emilia-Romagna - Nord-est) 
+		Fontevivo (Parma in Emilia-Romagna - Nord-est) 
+		Tizzano Val Parma (Parma in Emilia-Romagna - Nord-est) 
+58o posto: Provincia di Catanzaro in Calabria - Sud
+	2 comuni con 5 territori controllati:
+		Petrona' (Catanzaro in Calabria - Sud) 
+		Soveria Mannelli (Catanzaro in Calabria - Sud) 
+	3 comuni con 4 territori controllati:
+		Cardinale (Catanzaro in Calabria - Sud) 
+		Falerna (Catanzaro in Calabria - Sud) 
+		Santa Caterina dello Ionio (Catanzaro in Calabria - Sud) 
+	5 comuni con 3 territori controllati:
+		Curinga (Catanzaro in Calabria - Sud) 
+		Marcedusa (Catanzaro in Calabria - Sud) 
+		Montauro (Catanzaro in Calabria - Sud) 
+		Sellia Marina (Catanzaro in Calabria - Sud) 
+		Serrastretta (Catanzaro in Calabria - Sud) 
+59o posto: Provincia di Agrigento in Sicilia - Isole
+	2 comuni con 5 territori controllati:
+		Grotte (Agrigento in Sicilia - Isole) 
+		Naro (Agrigento in Sicilia - Isole) 
+	2 comuni con 4 territori controllati:
+		Cattolica Eraclea (Agrigento in Sicilia - Isole) 
+		Lampedusa e Linosa (Agrigento in Sicilia - Isole) 
+	1 comune con 3 territori controllati:
+		Santa Margherita di Belice (Agrigento in Sicilia - Isole) 
+60o posto: Provincia di Bari in Puglia - Sud
+	2 comuni con 5 territori controllati:
+		Gravina in Puglia (Bari in Puglia - Sud) 
+		Sannicandro di Bari (Bari in Puglia - Sud) 
+	2 comuni con 4 territori controllati:
+		Alberobello (Bari in Puglia - Sud) 
+		Turi (Bari in Puglia - Sud) 
+	1 comune con 3 territori controllati:
+		Locorotondo (Bari in Puglia - Sud) 
+61o posto: Provincia di Nuoro in Sardegna - Isole
+	2 comuni con 5 territori controllati:
+		Lotzorai (Nuoro in Sardegna - Isole) 
+		Ortueri (Nuoro in Sardegna - Isole) 
+	1 comune con 4 territori controllati:
+		Orotelli (Nuoro in Sardegna - Isole) 
+	6 comuni con 3 territori controllati:
+		Birori (Nuoro in Sardegna - Isole) 
+		Gairo (Nuoro in Sardegna - Isole) 
+		Gavoi (Nuoro in Sardegna - Isole) 
+		Oliena (Nuoro in Sardegna - Isole) 
+		Posada (Nuoro in Sardegna - Isole) 
+		Silanus (Nuoro in Sardegna - Isole) 
+62o posto: Provincia di Belluno in Veneto - Nord-est
+	2 comuni con 5 territori controllati:
+		Arsie' (Belluno in Veneto - Nord-est) 
+		Taibon Agordino (Belluno in Veneto - Nord-est) 
+	2 comuni con 3 territori controllati:
+		San Nicolo' di Comelico (Belluno in Veneto - Nord-est) 
+		Selva di Cadore (Belluno in Veneto - Nord-est) 
+63o posto: Provincia di Cremona in Lombardia - Nord-ovest
+	1 comune con 5 territori controllati:
+		Annicco (Cremona in Lombardia - Nord-ovest) 
+	6 comuni con 4 territori controllati:
+		Castelverde (Cremona in Lombardia - Nord-ovest) 
+		Crema (Cremona in Lombardia - Nord-ovest) 
+		Gussola (Cremona in Lombardia - Nord-ovest) 
+		Ostiano (Cremona in Lombardia - Nord-ovest) 
+		Torre de' Picenardi (Cremona in Lombardia - Nord-ovest) 
+		Vailate (Cremona in Lombardia - Nord-ovest) 
+	8 comuni con 3 territori controllati:
+		Gombito (Cremona in Lombardia - Nord-ovest) 
+		Madignano (Cremona in Lombardia - Nord-ovest) 
+		Motta Baluffi (Cremona in Lombardia - Nord-ovest) 
+		Pandino (Cremona in Lombardia - Nord-ovest) 
+		Persico Dosimo (Cremona in Lombardia - Nord-ovest) 
+		Scandolara Ravara (Cremona in Lombardia - Nord-ovest) 
+		Scandolara Ripa d'Oglio (Cremona in Lombardia - Nord-ovest) 
+		Spinadesco (Cremona in Lombardia - Nord-ovest) 
+64o posto: Provincia di Milano in Lombardia - Nord-ovest
+	1 comune con 5 territori controllati:
+		Gaggiano (Milano in Lombardia - Nord-ovest) 
+	6 comuni con 4 territori controllati:
+		Besate (Milano in Lombardia - Nord-ovest) 
+		Bussero (Milano in Lombardia - Nord-ovest) 
+		Busto Garolfo (Milano in Lombardia - Nord-ovest) 
+		Legnano (Milano in Lombardia - Nord-ovest) 
+		Melzo (Milano in Lombardia - Nord-ovest) 
+		Settimo Milanese (Milano in Lombardia - Nord-ovest) 
+	8 comuni con 3 territori controllati:
+		Magenta (Milano in Lombardia - Nord-ovest) 
+		Magnago (Milano in Lombardia - Nord-ovest) 
+		Marcallo con Casone (Milano in Lombardia - Nord-ovest) 
+		Pozzo d'Adda (Milano in Lombardia - Nord-ovest) 
+		Pregnana Milanese (Milano in Lombardia - Nord-ovest) 
+		San Donato Milanese (Milano in Lombardia - Nord-ovest) 
+		Solaro (Milano in Lombardia - Nord-ovest) 
+		Vittuone (Milano in Lombardia - Nord-ovest) 
+65o posto: Provincia di Como in Lombardia - Nord-ovest
+	1 comune con 5 territori controllati:
+		Olgiate Comasco (Como in Lombardia - Nord-ovest) 
+	5 comuni con 4 territori controllati:
+		Brienno (Como in Lombardia - Nord-ovest) 
+		Cermenate (Como in Lombardia - Nord-ovest) 
+		Rodero (Como in Lombardia - Nord-ovest) 
+		Tavernerio (Como in Lombardia - Nord-ovest) 
+		San Siro (Como in Lombardia - Nord-ovest) 
+	11 comune con 3 territori controllati:
+		Alzate Brianza (Como in Lombardia - Nord-ovest) 
+		Arosio (Como in Lombardia - Nord-ovest) 
+		Cernobbio (Como in Lombardia - Nord-ovest) 
+		Garzeno (Como in Lombardia - Nord-ovest) 
+		Laino (Como in Lombardia - Nord-ovest) 
+		Magreglio (Como in Lombardia - Nord-ovest) 
+		Monguzzo (Como in Lombardia - Nord-ovest) 
+		Montano Lucino (Como in Lombardia - Nord-ovest) 
+		Mozzate (Como in Lombardia - Nord-ovest) 
+		Novedrate (Como in Lombardia - Nord-ovest) 
+		San Nazzaro Val Cavargna (Como in Lombardia - Nord-ovest) 
+66o posto: Provincia di Vibo Valentia in Calabria - Sud
+	1 comune con 5 territori controllati:
+		Mileto (Vibo Valentia in Calabria - Sud) 
+	3 comuni con 4 territori controllati:
+		Simbario (Vibo Valentia in Calabria - Sud) 
+		Zambrone (Vibo Valentia in Calabria - Sud) 
+		Zungri (Vibo Valentia in Calabria - Sud) 
+	4 comuni con 3 territori controllati:
+		Arena (Vibo Valentia in Calabria - Sud) 
+		Filogaso (Vibo Valentia in Calabria - Sud) 
+		Francavilla Angitola (Vibo Valentia in Calabria - Sud) 
+		Ricadi (Vibo Valentia in Calabria - Sud) 
+67o posto: Provincia di Valle d'Aosta/Valle'e d'Aoste in Valle d'Aosta/Valle'e d'Aoste - Nord-ovest
+	1 comune con 5 territori controllati:
+		Donnas (Valle d'Aosta/Valle'e d'Aoste in Valle d'Aosta/Valle'e d'Aoste - Nord-ovest) 
+	2 comuni con 4 territori controllati:
+		Brissogne (Valle d'Aosta/Valle'e d'Aoste in Valle d'Aosta/Valle'e d'Aoste - Nord-ovest) 
+		Champorcher (Valle d'Aosta/Valle'e d'Aoste in Valle d'Aosta/Valle'e d'Aoste - Nord-ovest) 
+	5 comuni con 3 territori controllati:
+		Gaby (Valle d'Aosta/Valle'e d'Aoste in Valle d'Aosta/Valle'e d'Aoste - Nord-ovest) 
+		Introd (Valle d'Aosta/Valle'e d'Aoste in Valle d'Aosta/Valle'e d'Aoste - Nord-ovest) 
+		La Magdeleine (Valle d'Aosta/Valle'e d'Aoste in Valle d'Aosta/Valle'e d'Aoste - Nord-ovest) 
+		Quart (Valle d'Aosta/Valle'e d'Aoste in Valle d'Aosta/Valle'e d'Aoste - Nord-ovest) 
+		Valgrisenche (Valle d'Aosta/Valle'e d'Aoste in Valle d'Aosta/Valle'e d'Aoste - Nord-ovest) 
+68o posto: Provincia di Monza e della Brianza in Lombardia - Nord-ovest
+	1 comune con 5 territori controllati:
+		Seveso (Monza e della Brianza in Lombardia - Nord-ovest) 
+	2 comuni con 4 territori controllati:
+		Seregno (Monza e della Brianza in Lombardia - Nord-ovest) 
+		Caponago (Monza e della Brianza in Lombardia - Nord-ovest) 
+	1 comune con 3 territori controllati:
+		Camparada (Monza e della Brianza in Lombardia - Nord-ovest) 
+69o posto: Provincia di Piacenza in Emilia-Romagna - Nord-est
+	1 comune con 5 territori controllati:
+		Fiorenzuola d'Arda (Piacenza in Emilia-Romagna - Nord-est) 
+	2 comuni con 4 territori controllati:
+		Castel San Giovanni (Piacenza in Emilia-Romagna - Nord-est) 
+		Piozzano (Piacenza in Emilia-Romagna - Nord-est) 
+	1 comune con 3 territori controllati:
+		Sarmato (Piacenza in Emilia-Romagna - Nord-est) 
+70o posto: Provincia di Firenze in Toscana - Centro
+	1 comune con 5 territori controllati:
+		Signa (Firenze in Toscana - Centro) 
+	1 comune con 4 territori controllati:
+		Montespertoli (Firenze in Toscana - Centro) 
+	4 comuni con 3 territori controllati:
+		Bagno a Ripoli (Firenze in Toscana - Centro) 
+		Cerreto Guidi (Firenze in Toscana - Centro) 
+		Marradi (Firenze in Toscana - Centro) 
+		Pelago (Firenze in Toscana - Centro) 
+71o posto: Provincia di Pescara in Abruzzo - Sud
+	1 comune con 5 territori controllati:
+		Lettomanoppello (Pescara in Abruzzo - Sud) 
+	1 comune con 4 territori controllati:
+		Civitella Casanova (Pescara in Abruzzo - Sud) 
+	4 comuni con 3 territori controllati:
+		Bolognano (Pescara in Abruzzo - Sud) 
+		Brittoli (Pescara in Abruzzo - Sud) 
+		Loreto Aprutino (Pescara in Abruzzo - Sud) 
+		Penne (Pescara in Abruzzo - Sud) 
+72o posto: Provincia di Ferrara in Emilia-Romagna - Nord-est
+	1 comune con 5 territori controllati:
+		Ferrara (Ferrara in Emilia-Romagna - Nord-est) 
+	1 comune con 4 territori controllati:
+		Comacchio (Ferrara in Emilia-Romagna - Nord-est) 
+	2 comuni con 3 territori controllati:
+		Bondeno (Ferrara in Emilia-Romagna - Nord-est) 
+		Copparo (Ferrara in Emilia-Romagna - Nord-est) 
+73o posto: Provincia di Arezzo in Toscana - Centro
+	1 comune con 5 territori controllati:
+		Capolona (Arezzo in Toscana - Centro) 
+	1 comune con 4 territori controllati:
+		Monte San Savino (Arezzo in Toscana - Centro) 
+	1 comune con 3 territori controllati:
+		Caprese Michelangelo (Arezzo in Toscana - Centro) 
+74o posto: Provincia di La Spezia in Liguria - Nord-ovest
+	1 comune con 5 territori controllati:
+		Beverino (La Spezia in Liguria - Nord-ovest) 
+	1 comune con 4 territori controllati:
+		Levanto (La Spezia in Liguria - Nord-ovest) 
+75o posto: Provincia di Benevento in Campania - Sud
+	1 comune con 5 territori controllati:
+		Sassinoro (Benevento in Campania - Sud) 
+	7 comuni con 3 territori controllati:
+		Airola (Benevento in Campania - Sud) 
+		Cusano Mutri (Benevento in Campania - Sud) 
+		Dugenta (Benevento in Campania - Sud) 
+		Foiano di Val Fortore (Benevento in Campania - Sud) 
+		Pesco Sannita (Benevento in Campania - Sud) 
+		San Martino Sannita (Benevento in Campania - Sud) 
+		Vitulano (Benevento in Campania - Sud) 
+76o posto: Provincia di Lodi in Lombardia - Nord-ovest
+	1 comune con 5 territori controllati:
+		Lodi Vecchio (Lodi in Lombardia - Nord-ovest) 
+	3 comuni con 3 territori controllati:
+		Castiglione d'Adda (Lodi in Lombardia - Nord-ovest) 
+		San Martino in Strada (Lodi in Lombardia - Nord-ovest) 
+		Somaglia (Lodi in Lombardia - Nord-ovest) 
+77o posto: Provincia di Treviso in Veneto - Nord-est
+	3 comuni con 4 territori controllati:
+		Altivole (Treviso in Veneto - Nord-est) 
+		Ponte di Piave (Treviso in Veneto - Nord-est) 
+		Zenson di Piave (Treviso in Veneto - Nord-est) 
+	6 comuni con 3 territori controllati:
+		Casier (Treviso in Veneto - Nord-est) 
+		Castelcucco (Treviso in Veneto - Nord-est) 
+		Castello di Godego (Treviso in Veneto - Nord-est) 
+		Cison di Valmarino (Treviso in Veneto - Nord-est) 
+		Giavera del Montello (Treviso in Veneto - Nord-est) 
+		Possagno (Treviso in Veneto - Nord-est) 
+78o posto: Provincia di Lecce in Puglia - Sud
+	3 comuni con 4 territori controllati:
+		Aradeo (Lecce in Puglia - Sud) 
+		Santa Cesarea Terme (Lecce in Puglia - Sud) 
+		Taurisano (Lecce in Puglia - Sud) 
+	4 comuni con 3 territori controllati:
+		Casarano (Lecce in Puglia - Sud) 
+		Nardo' (Lecce in Puglia - Sud) 
+		Patu' (Lecce in Puglia - Sud) 
+		Specchia (Lecce in Puglia - Sud) 
+79o posto: Provincia di Grosseto in Toscana - Centro
+	3 comuni con 4 territori controllati:
+		Capalbio (Grosseto in Toscana - Centro) 
+		Grosseto (Grosseto in Toscana - Centro) 
+		Sorano (Grosseto in Toscana - Centro) 
+	1 comune con 3 territori controllati:
+		Pitigliano (Grosseto in Toscana - Centro) 
+80o posto: Provincia di Viterbo in Lazio - Centro
+	2 comuni con 4 territori controllati:
+		Calcata (Viterbo in Lazio - Centro) 
+		Carbognano (Viterbo in Lazio - Centro) 
+	6 comuni con 3 territori controllati:
+		Montefiascone (Viterbo in Lazio - Centro) 
+		Nepi (Viterbo in Lazio - Centro) 
+		Onano (Viterbo in Lazio - Centro) 
+		Valentano (Viterbo in Lazio - Centro) 
+		Vallerano (Viterbo in Lazio - Centro) 
+		Vitorchiano (Viterbo in Lazio - Centro) 
+81o posto: Provincia di Frosinone in Lazio - Centro
+	2 comuni con 4 territori controllati:
+		Acquafondata (Frosinone in Lazio - Centro) 
+		Fiuggi (Frosinone in Lazio - Centro) 
+	5 comuni con 3 territori controllati:
+		Arce (Frosinone in Lazio - Centro) 
+		Casalvieri (Frosinone in Lazio - Centro) 
+		Fontechiari (Frosinone in Lazio - Centro) 
+		Giuliano di Roma (Frosinone in Lazio - Centro) 
+		Pignataro Interamna (Frosinone in Lazio - Centro) 
+82o posto: Provincia di Crotone in Calabria - Sud
+	2 comuni con 4 territori controllati:
+		San Mauro Marchesato (Crotone in Calabria - Sud) 
+		Verzino (Crotone in Calabria - Sud) 
+	2 comuni con 3 territori controllati:
+		Ciro' (Crotone in Calabria - Sud) 
+		Cutro (Crotone in Calabria - Sud) 
+83o posto: Provincia di Ancona in Marche - Centro
+	2 comuni con 4 territori controllati:
+		Castelleone di Suasa (Ancona in Marche - Centro) 
+		Jesi (Ancona in Marche - Centro) 
+84o posto: Provincia di Matera in Basilicata - Sud
+	2 comuni con 4 territori controllati:
+		Matera (Matera in Basilicata - Sud) 
+		Tursi (Matera in Basilicata - Sud) 
+85o posto: Provincia di Oristano in Sardegna - Isole
+	1 comune con 4 territori controllati:
+		Ollastra (Oristano in Sardegna - Isole) 
+	10 comuni con 3 territori controllati:
+		Abbasanta (Oristano in Sardegna - Isole) 
+		Allai (Oristano in Sardegna - Isole) 
+		Busachi (Oristano in Sardegna - Isole) 
+		Cuglieri (Oristano in Sardegna - Isole) 
+		Ghilarza (Oristano in Sardegna - Isole) 
+		Masullas (Oristano in Sardegna - Isole) 
+		Pau (Oristano in Sardegna - Isole) 
+		Scano di Montiferro (Oristano in Sardegna - Isole) 
+		Seneghe (Oristano in Sardegna - Isole) 
+		Bosa (Oristano in Sardegna - Isole) 
+86o posto: Provincia di Savona in Liguria - Nord-ovest
+	1 comune con 4 territori controllati:
+		Calizzano (Savona in Liguria - Nord-ovest) 
+	6 comuni con 3 territori controllati:
+		Borghetto Santo Spirito (Savona in Liguria - Nord-ovest) 
+		Erli (Savona in Liguria - Nord-ovest) 
+		Plodio (Savona in Liguria - Nord-ovest) 
+		Toirano (Savona in Liguria - Nord-ovest) 
+		Urbe (Savona in Liguria - Nord-ovest) 
+		Villanova d'Albenga (Savona in Liguria - Nord-ovest) 
+87o posto: Provincia di Macerata in Marche - Centro
+	1 comune con 4 territori controllati:
+		Cingoli (Macerata in Marche - Centro) 
+	5 comuni con 3 territori controllati:
+		Civitanova Marche (Macerata in Marche - Centro) 
+		Gualdo (Macerata in Marche - Centro) 
+		Poggio San Vicino (Macerata in Marche - Centro) 
+		Ripe San Ginesio (Macerata in Marche - Centro) 
+		Serravalle di Chienti (Macerata in Marche - Centro) 
+88o posto: Provincia di Trapani in Sicilia - Isole
+	1 comune con 4 territori controllati:
+		Trapani (Trapani in Sicilia - Isole) 
+	4 comuni con 3 territori controllati:
+		Alcamo (Trapani in Sicilia - Isole) 
+		Buseto Palizzolo (Trapani in Sicilia - Isole) 
+		Favignana (Trapani in Sicilia - Isole) 
+		Poggioreale (Trapani in Sicilia - Isole) 
+89o posto: Provincia di Reggio nell'Emilia in Emilia-Romagna - Nord-est
+	1 comune con 4 territori controllati:
+		Rio Saliceto (Reggio nell'Emilia in Emilia-Romagna - Nord-est) 
+	3 comuni con 3 territori controllati:
+		Albinea (Reggio nell'Emilia in Emilia-Romagna - Nord-est) 
+		Castellarano (Reggio nell'Emilia in Emilia-Romagna - Nord-est) 
+		Sant'Ilario d'Enza (Reggio nell'Emilia in Emilia-Romagna - Nord-est) 
+90o posto: Provincia di Brindisi in Puglia - Sud
+	1 comune con 4 territori controllati:
+		San Vito dei Normanni (Brindisi in Puglia - Sud) 
+	2 comuni con 3 territori controllati:
+		Ostuni (Brindisi in Puglia - Sud) 
+		Torchiarolo (Brindisi in Puglia - Sud) 
+91o posto: Provincia di Isernia in Molise - Sud
+	1 comune con 4 territori controllati:
+		Colli a Volturno (Isernia in Molise - Sud) 
+	2 comuni con 3 territori controllati:
+		Chiauci (Isernia in Molise - Sud) 
+		Scapoli (Isernia in Molise - Sud) 
+92o posto: Provincia di Cagliari in Sardegna - Isole
+	1 comune con 4 territori controllati:
+		Sinnai (Cagliari in Sardegna - Isole) 
+	2 comuni con 3 territori controllati:
+		Capoterra (Cagliari in Sardegna - Isole) 
+		Pula (Cagliari in Sardegna - Isole) 
+93o posto: Provincia di Terni in Umbria - Centro
+	1 comune con 4 territori controllati:
+		Amelia (Terni in Umbria - Centro) 
+	2 comuni con 3 territori controllati:
+		Calvi dell'Umbria (Terni in Umbria - Centro) 
+		Avigliano Umbro (Terni in Umbria - Centro) 
+94o posto: Provincia di Ravenna in Emilia-Romagna - Nord-est
+	1 comune con 4 territori controllati:
+		Ravenna (Ravenna in Emilia-Romagna - Nord-est) 
+	1 comune con 3 territori controllati:
+		Casola Valsenio (Ravenna in Emilia-Romagna - Nord-est) 
+95o posto: Provincia di Caltanissetta in Sicilia - Isole
+	1 comune con 4 territori controllati:
+		Campofranco (Caltanissetta in Sicilia - Isole) 
+	1 comune con 3 territori controllati:
+		Villalba (Caltanissetta in Sicilia - Isole) 
+96o posto: Provincia di Ragusa in Sicilia - Isole
+	1 comune con 4 territori controllati:
+		Chiaramonte Gulfi (Ragusa in Sicilia - Isole) 
+	1 comune con 3 territori controllati:
+		Comiso (Ragusa in Sicilia - Isole) 
+97o posto: Provincia di Massa-Carrara in Toscana - Centro
+	1 comune con 4 territori controllati:
+		Fivizzano (Massa-Carrara in Toscana - Centro) 
+98o posto: Provincia di Barletta-Andria-Trani in Puglia - Sud
+	1 comune con 4 territori controllati:
+		Canosa di Puglia (Barletta-Andria-Trani in Puglia - Sud) 
+99o posto: Provincia di Livorno in Toscana - Centro
+	1 comune con 4 territori controllati:
+		Capraia Isola (Livorno in Toscana - Centro) 
+100o posto: Provincia di Modena in Emilia-Romagna - Nord-est
+	4 comuni con 3 territori controllati:
+		Bomporto (Modena in Emilia-Romagna - Nord-est) 
+		Cavezzo (Modena in Emilia-Romagna - Nord-est) 
+		Nonantola (Modena in Emilia-Romagna - Nord-est) 
+		Polinago (Modena in Emilia-Romagna - Nord-est) 
+101o posto: Provincia di Pisa in Toscana - Centro
+	3 comuni con 3 territori controllati:
+		Chianni (Pisa in Toscana - Centro) 
+		Fauglia (Pisa in Toscana - Centro) 
+		Palaia (Pisa in Toscana - Centro) 
+102o posto: Provincia di Pistoia in Toscana - Centro
+	3 comuni con 3 territori controllati:
+		Marliana (Pistoia in Toscana - Centro) 
+		Pistoia (Pistoia in Toscana - Centro) 
+		Sambuca Pistoiese (Pistoia in Toscana - Centro) 
+103o posto: Provincia di Siena in Toscana - Centro
+	2 comuni con 3 territori controllati:
+		Monteroni d'Arbia (Siena in Toscana - Centro) 
+		Radicondoli (Siena in Toscana - Centro) 
+104o posto: Provincia di Rimini in Emilia-Romagna - Nord-est
+	2 comuni con 3 territori controllati:
+		Saludecio (Rimini in Emilia-Romagna - Nord-est) 
+		Verucchio (Rimini in Emilia-Romagna - Nord-est) 
+105o posto: Provincia di Forli'-Cesena in Emilia-Romagna - Nord-est
+	2 comuni con 3 territori controllati:
+		Gambettola (Forli'-Cesena in Emilia-Romagna - Nord-est) 
+		Sogliano al Rubicone (Forli'-Cesena in Emilia-Romagna - Nord-est) 
