@@ -1,0 +1,324 @@
+-> SALDO provincia =  COMUNI IN ALTRE PROVINCE CONTROLLATI DA COMUNI DELLA provincia - COMUNI NELLA provincia CONTROLLATI DA ALTRE PROVINCE
+
+
+Vercelli, saldo = 14
+	Comuni stranieri controllati: 18, comuni controllati da stranieri: 4
+	Percentuale di comuni stranieri controllati: 0.21919143%, percentuale di comuni caduti sotto il dominio straniero: 4.8780484%
+Ascoli Piceno, saldo = 7
+	Comuni stranieri controllati: 9, comuni controllati da stranieri: 2
+	Percentuale di comuni stranieri controllati: 0.109595716%, percentuale di comuni caduti sotto il dominio straniero: 6.060606%
+Pordenone, saldo = 7
+	Comuni stranieri controllati: 8, comuni controllati da stranieri: 1
+	Percentuale di comuni stranieri controllati: 0.09741841%, percentuale di comuni caduti sotto il dominio straniero: 2.0%
+Perugia, saldo = 7
+	Comuni stranieri controllati: 8, comuni controllati da stranieri: 1
+	Percentuale di comuni stranieri controllati: 0.09741841%, percentuale di comuni caduti sotto il dominio straniero: 1.6949153%
+Catania, saldo = 7
+	Comuni stranieri controllati: 11, comuni controllati da stranieri: 4
+	Percentuale di comuni stranieri controllati: 0.13395032%, percentuale di comuni caduti sotto il dominio straniero: 6.8965516%
+Firenze, saldo = 7
+	Comuni stranieri controllati: 7, comuni controllati da stranieri: 0
+	Percentuale di comuni stranieri controllati: 0.08524111%, percentuale di comuni caduti sotto il dominio straniero: 0.0%
+Grosseto, saldo = 6
+	Comuni stranieri controllati: 6, comuni controllati da stranieri: 0
+	Percentuale di comuni stranieri controllati: 0.07306381%, percentuale di comuni caduti sotto il dominio straniero: 0.0%
+Venezia, saldo = 6
+	Comuni stranieri controllati: 8, comuni controllati da stranieri: 2
+	Percentuale di comuni stranieri controllati: 0.09741841%, percentuale di comuni caduti sotto il dominio straniero: 4.5454545%
+Cremona, saldo = 6
+	Comuni stranieri controllati: 12, comuni controllati da stranieri: 6
+	Percentuale di comuni stranieri controllati: 0.14612763%, percentuale di comuni caduti sotto il dominio straniero: 5.3097343%
+Imperia, saldo = 6
+	Comuni stranieri controllati: 7, comuni controllati da stranieri: 1
+	Percentuale di comuni stranieri controllati: 0.08524111%, percentuale di comuni caduti sotto il dominio straniero: 1.5151515%
+Catanzaro, saldo = 6
+	Comuni stranieri controllati: 6, comuni controllati da stranieri: 0
+	Percentuale di comuni stranieri controllati: 0.07306381%, percentuale di comuni caduti sotto il dominio straniero: 0.0%
+Gorizia, saldo = 6
+	Comuni stranieri controllati: 7, comuni controllati da stranieri: 1
+	Percentuale di comuni stranieri controllati: 0.08524111%, percentuale di comuni caduti sotto il dominio straniero: 4.0%
+Alessandria, saldo = 5
+	Comuni stranieri controllati: 11, comuni controllati da stranieri: 6
+	Percentuale di comuni stranieri controllati: 0.13395032%, percentuale di comuni caduti sotto il dominio straniero: 3.208556%
+Agrigento, saldo = 5
+	Comuni stranieri controllati: 5, comuni controllati da stranieri: 0
+	Percentuale di comuni stranieri controllati: 0.060886506%, percentuale di comuni caduti sotto il dominio straniero: 0.0%
+Bari, saldo = 4
+	Comuni stranieri controllati: 5, comuni controllati da stranieri: 1
+	Percentuale di comuni stranieri controllati: 0.060886506%, percentuale di comuni caduti sotto il dominio straniero: 2.4390242%
+Parma, saldo = 4
+	Comuni stranieri controllati: 6, comuni controllati da stranieri: 2
+	Percentuale di comuni stranieri controllati: 0.07306381%, percentuale di comuni caduti sotto il dominio straniero: 4.5454545%
+Asti, saldo = 4
+	Comuni stranieri controllati: 10, comuni controllati da stranieri: 6
+	Percentuale di comuni stranieri controllati: 0.12177301%, percentuale di comuni caduti sotto il dominio straniero: 5.0847454%
+Teramo, saldo = 4
+	Comuni stranieri controllati: 6, comuni controllati da stranieri: 2
+	Percentuale di comuni stranieri controllati: 0.07306381%, percentuale di comuni caduti sotto il dominio straniero: 4.255319%
+Sud Sardegna, saldo = 4
+	Comuni stranieri controllati: 6, comuni controllati da stranieri: 2
+	Percentuale di comuni stranieri controllati: 0.07306381%, percentuale di comuni caduti sotto il dominio straniero: 1.8691589%
+Lecco, saldo = 4
+	Comuni stranieri controllati: 6, comuni controllati da stranieri: 2
+	Percentuale di comuni stranieri controllati: 0.07306381%, percentuale di comuni caduti sotto il dominio straniero: 2.3529413%
+Milano, saldo = 4
+	Comuni stranieri controllati: 8, comuni controllati da stranieri: 4
+	Percentuale di comuni stranieri controllati: 0.09741841%, percentuale di comuni caduti sotto il dominio straniero: 3.0075188%
+Caserta, saldo = 4
+	Comuni stranieri controllati: 8, comuni controllati da stranieri: 4
+	Percentuale di comuni stranieri controllati: 0.09741841%, percentuale di comuni caduti sotto il dominio straniero: 3.846154%
+Massa-Carrara, saldo = 3
+	Comuni stranieri controllati: 3, comuni controllati da stranieri: 0
+	Percentuale di comuni stranieri controllati: 0.036531907%, percentuale di comuni caduti sotto il dominio straniero: 0.0%
+Mantova, saldo = 3
+	Comuni stranieri controllati: 8, comuni controllati da stranieri: 5
+	Percentuale di comuni stranieri controllati: 0.09741841%, percentuale di comuni caduti sotto il dominio straniero: 7.8125%
+Ravenna, saldo = 3
+	Comuni stranieri controllati: 3, comuni controllati da stranieri: 0
+	Percentuale di comuni stranieri controllati: 0.036531907%, percentuale di comuni caduti sotto il dominio straniero: 0.0%
+Ferrara, saldo = 3
+	Comuni stranieri controllati: 3, comuni controllati da stranieri: 0
+	Percentuale di comuni stranieri controllati: 0.036531907%, percentuale di comuni caduti sotto il dominio straniero: 0.0%
+Nuoro, saldo = 2
+	Comuni stranieri controllati: 4, comuni controllati da stranieri: 2
+	Percentuale di comuni stranieri controllati: 0.048709206%, percentuale di comuni caduti sotto il dominio straniero: 2.7027028%
+Campobasso, saldo = 2
+	Comuni stranieri controllati: 5, comuni controllati da stranieri: 3
+	Percentuale di comuni stranieri controllati: 0.060886506%, percentuale di comuni caduti sotto il dominio straniero: 3.5714288%
+Cagliari, saldo = 2
+	Comuni stranieri controllati: 2, comuni controllati da stranieri: 0
+	Percentuale di comuni stranieri controllati: 0.024354603%, percentuale di comuni caduti sotto il dominio straniero: 0.0%
+Napoli, saldo = 2
+	Comuni stranieri controllati: 3, comuni controllati da stranieri: 1
+	Percentuale di comuni stranieri controllati: 0.036531907%, percentuale di comuni caduti sotto il dominio straniero: 1.0869565%
+Viterbo, saldo = 2
+	Comuni stranieri controllati: 4, comuni controllati da stranieri: 2
+	Percentuale di comuni stranieri controllati: 0.048709206%, percentuale di comuni caduti sotto il dominio straniero: 3.3333335%
+Ragusa, saldo = 2
+	Comuni stranieri controllati: 2, comuni controllati da stranieri: 0
+	Percentuale di comuni stranieri controllati: 0.024354603%, percentuale di comuni caduti sotto il dominio straniero: 0.0%
+Avellino, saldo = 2
+	Comuni stranieri controllati: 7, comuni controllati da stranieri: 5
+	Percentuale di comuni stranieri controllati: 0.08524111%, percentuale di comuni caduti sotto il dominio straniero: 4.2372885%
+Taranto, saldo = 2
+	Comuni stranieri controllati: 3, comuni controllati da stranieri: 1
+	Percentuale di comuni stranieri controllati: 0.036531907%, percentuale di comuni caduti sotto il dominio straniero: 3.4482758%
+Vicenza, saldo = 2
+	Comuni stranieri controllati: 3, comuni controllati da stranieri: 1
+	Percentuale di comuni stranieri controllati: 0.036531907%, percentuale di comuni caduti sotto il dominio straniero: 0.877193%
+Macerata, saldo = 2
+	Comuni stranieri controllati: 6, comuni controllati da stranieri: 4
+	Percentuale di comuni stranieri controllati: 0.07306381%, percentuale di comuni caduti sotto il dominio straniero: 7.272727%
+Barletta-Andria-Trani, saldo = 2
+	Comuni stranieri controllati: 3, comuni controllati da stranieri: 1
+	Percentuale di comuni stranieri controllati: 0.036531907%, percentuale di comuni caduti sotto il dominio straniero: 10.0%
+Reggio Calabria, saldo = 1
+	Comuni stranieri controllati: 1, comuni controllati da stranieri: 0
+	Percentuale di comuni stranieri controllati: 0.012177302%, percentuale di comuni caduti sotto il dominio straniero: 0.0%
+Arezzo, saldo = 1
+	Comuni stranieri controllati: 2, comuni controllati da stranieri: 1
+	Percentuale di comuni stranieri controllati: 0.024354603%, percentuale di comuni caduti sotto il dominio straniero: 2.777778%
+Piacenza, saldo = 1
+	Comuni stranieri controllati: 7, comuni controllati da stranieri: 6
+	Percentuale di comuni stranieri controllati: 0.08524111%, percentuale di comuni caduti sotto il dominio straniero: 13.043478%
+Livorno, saldo = 1
+	Comuni stranieri controllati: 1, comuni controllati da stranieri: 0
+	Percentuale di comuni stranieri controllati: 0.012177302%, percentuale di comuni caduti sotto il dominio straniero: 0.0%
+Foggia, saldo = 1
+	Comuni stranieri controllati: 3, comuni controllati da stranieri: 2
+	Percentuale di comuni stranieri controllati: 0.036531907%, percentuale di comuni caduti sotto il dominio straniero: 3.2786884%
+Verona, saldo = 1
+	Comuni stranieri controllati: 4, comuni controllati da stranieri: 3
+	Percentuale di comuni stranieri controllati: 0.048709206%, percentuale di comuni caduti sotto il dominio straniero: 3.0612245%
+Modena, saldo = 0
+	Comuni stranieri controllati: 3, comuni controllati da stranieri: 3
+	Percentuale di comuni stranieri controllati: 0.036531907%, percentuale di comuni caduti sotto il dominio straniero: 6.382979%
+Varese, saldo = 0
+	Comuni stranieri controllati: 4, comuni controllati da stranieri: 4
+	Percentuale di comuni stranieri controllati: 0.048709206%, percentuale di comuni caduti sotto il dominio straniero: 2.8985507%
+Rovigo, saldo = 0
+	Comuni stranieri controllati: 3, comuni controllati da stranieri: 3
+	Percentuale di comuni stranieri controllati: 0.036531907%, percentuale di comuni caduti sotto il dominio straniero: 6.0%
+Bolzano/Bozen, saldo = 0
+	Comuni stranieri controllati: 3, comuni controllati da stranieri: 3
+	Percentuale di comuni stranieri controllati: 0.036531907%, percentuale di comuni caduti sotto il dominio straniero: 2.586207%
+Forli'-Cesena, saldo = 0
+	Comuni stranieri controllati: 3, comuni controllati da stranieri: 3
+	Percentuale di comuni stranieri controllati: 0.036531907%, percentuale di comuni caduti sotto il dominio straniero: 10.0%
+Frosinone, saldo = 0
+	Comuni stranieri controllati: 4, comuni controllati da stranieri: 4
+	Percentuale di comuni stranieri controllati: 0.048709206%, percentuale di comuni caduti sotto il dominio straniero: 4.3956046%
+Rimini, saldo = 0
+	Comuni stranieri controllati: 3, comuni controllati da stranieri: 3
+	Percentuale di comuni stranieri controllati: 0.036531907%, percentuale di comuni caduti sotto il dominio straniero: 12.0%
+Caltanissetta, saldo = 0
+	Comuni stranieri controllati: 1, comuni controllati da stranieri: 1
+	Percentuale di comuni stranieri controllati: 0.012177302%, percentuale di comuni caduti sotto il dominio straniero: 4.5454545%
+Reggio nell'Emilia, saldo = 0
+	Comuni stranieri controllati: 2, comuni controllati da stranieri: 2
+	Percentuale di comuni stranieri controllati: 0.024354603%, percentuale di comuni caduti sotto il dominio straniero: 4.7619047%
+Sondrio, saldo = 0
+	Comuni stranieri controllati: 0, comuni controllati da stranieri: 0
+	Percentuale di comuni stranieri controllati: 0.0%, percentuale di comuni caduti sotto il dominio straniero: 0.0%
+Trieste, saldo = 0
+	Comuni stranieri controllati: 0, comuni controllati da stranieri: 0
+	Percentuale di comuni stranieri controllati: 0.0%, percentuale di comuni caduti sotto il dominio straniero: 0.0%
+L'Aquila, saldo = 0
+	Comuni stranieri controllati: 4, comuni controllati da stranieri: 4
+	Percentuale di comuni stranieri controllati: 0.048709206%, percentuale di comuni caduti sotto il dominio straniero: 3.7037036%
+Valle d'Aosta/Valle'e d'Aoste, saldo = 0
+	Comuni stranieri controllati: 4, comuni controllati da stranieri: 4
+	Percentuale di comuni stranieri controllati: 0.048709206%, percentuale di comuni caduti sotto il dominio straniero: 5.4054055%
+Pesaro e Urbino, saldo = 0
+	Comuni stranieri controllati: 3, comuni controllati da stranieri: 3
+	Percentuale di comuni stranieri controllati: 0.036531907%, percentuale di comuni caduti sotto il dominio straniero: 5.6603775%
+Crotone, saldo = -1
+	Comuni stranieri controllati: 0, comuni controllati da stranieri: 1
+	Percentuale di comuni stranieri controllati: 0.0%, percentuale di comuni caduti sotto il dominio straniero: 3.7037036%
+Brescia, saldo = -1
+	Comuni stranieri controllati: 7, comuni controllati da stranieri: 8
+	Percentuale di comuni stranieri controllati: 0.08524111%, percentuale di comuni caduti sotto il dominio straniero: 3.902439%
+Lucca, saldo = -1
+	Comuni stranieri controllati: 1, comuni controllati da stranieri: 2
+	Percentuale di comuni stranieri controllati: 0.012177302%, percentuale di comuni caduti sotto il dominio straniero: 6.060606%
+Novara, saldo = -1
+	Comuni stranieri controllati: 4, comuni controllati da stranieri: 5
+	Percentuale di comuni stranieri controllati: 0.048709206%, percentuale di comuni caduti sotto il dominio straniero: 5.7471266%
+Trapani, saldo = -1
+	Comuni stranieri controllati: 3, comuni controllati da stranieri: 4
+	Percentuale di comuni stranieri controllati: 0.036531907%, percentuale di comuni caduti sotto il dominio straniero: 16.666668%
+Enna, saldo = -1
+	Comuni stranieri controllati: 1, comuni controllati da stranieri: 2
+	Percentuale di comuni stranieri controllati: 0.012177302%, percentuale di comuni caduti sotto il dominio straniero: 10.0%
+Treviso, saldo = -1
+	Comuni stranieri controllati: 2, comuni controllati da stranieri: 3
+	Percentuale di comuni stranieri controllati: 0.024354603%, percentuale di comuni caduti sotto il dominio straniero: 3.1914895%
+Lecce, saldo = -1
+	Comuni stranieri controllati: 0, comuni controllati da stranieri: 1
+	Percentuale di comuni stranieri controllati: 0.0%, percentuale di comuni caduti sotto il dominio straniero: 1.0309278%
+Latina, saldo = -1
+	Comuni stranieri controllati: 0, comuni controllati da stranieri: 1
+	Percentuale di comuni stranieri controllati: 0.0%, percentuale di comuni caduti sotto il dominio straniero: 3.030303%
+Como, saldo = -1
+	Comuni stranieri controllati: 2, comuni controllati da stranieri: 3
+	Percentuale di comuni stranieri controllati: 0.024354603%, percentuale di comuni caduti sotto il dominio straniero: 2.027027%
+Verbano-Cusio-Ossola, saldo = -1
+	Comuni stranieri controllati: 1, comuni controllati da stranieri: 2
+	Percentuale di comuni stranieri controllati: 0.012177302%, percentuale di comuni caduti sotto il dominio straniero: 2.7027028%
+Pistoia, saldo = -1
+	Comuni stranieri controllati: 1, comuni controllati da stranieri: 2
+	Percentuale di comuni stranieri controllati: 0.012177302%, percentuale di comuni caduti sotto il dominio straniero: 10.0%
+Pisa, saldo = -1
+	Comuni stranieri controllati: 1, comuni controllati da stranieri: 2
+	Percentuale di comuni stranieri controllati: 0.012177302%, percentuale di comuni caduti sotto il dominio straniero: 5.4054055%
+Benevento, saldo = -1
+	Comuni stranieri controllati: 6, comuni controllati da stranieri: 7
+	Percentuale di comuni stranieri controllati: 0.07306381%, percentuale di comuni caduti sotto il dominio straniero: 8.9743595%
+Sassari, saldo = -1
+	Comuni stranieri controllati: 1, comuni controllati da stranieri: 2
+	Percentuale di comuni stranieri controllati: 0.012177302%, percentuale di comuni caduti sotto il dominio straniero: 2.173913%
+Bergamo, saldo = -1
+	Comuni stranieri controllati: 6, comuni controllati da stranieri: 7
+	Percentuale di comuni stranieri controllati: 0.07306381%, percentuale di comuni caduti sotto il dominio straniero: 2.8806584%
+Salerno, saldo = -2
+	Comuni stranieri controllati: 1, comuni controllati da stranieri: 3
+	Percentuale di comuni stranieri controllati: 0.012177302%, percentuale di comuni caduti sotto il dominio straniero: 1.8987341%
+Torino, saldo = -2
+	Comuni stranieri controllati: 7, comuni controllati da stranieri: 9
+	Percentuale di comuni stranieri controllati: 0.08524111%, percentuale di comuni caduti sotto il dominio straniero: 2.8846154%
+Fermo, saldo = -2
+	Comuni stranieri controllati: 2, comuni controllati da stranieri: 4
+	Percentuale di comuni stranieri controllati: 0.024354603%, percentuale di comuni caduti sotto il dominio straniero: 10.0%
+Roma, saldo = -2
+	Comuni stranieri controllati: 5, comuni controllati da stranieri: 7
+	Percentuale di comuni stranieri controllati: 0.060886506%, percentuale di comuni caduti sotto il dominio straniero: 5.785124%
+Belluno, saldo = -2
+	Comuni stranieri controllati: 1, comuni controllati da stranieri: 3
+	Percentuale di comuni stranieri controllati: 0.012177302%, percentuale di comuni caduti sotto il dominio straniero: 4.9180326%
+La Spezia, saldo = -2
+	Comuni stranieri controllati: 0, comuni controllati da stranieri: 2
+	Percentuale di comuni stranieri controllati: 0.0%, percentuale di comuni caduti sotto il dominio straniero: 6.25%
+Bologna, saldo = -2
+	Comuni stranieri controllati: 2, comuni controllati da stranieri: 4
+	Percentuale di comuni stranieri controllati: 0.024354603%, percentuale di comuni caduti sotto il dominio straniero: 7.272727%
+Pescara, saldo = -2
+	Comuni stranieri controllati: 5, comuni controllati da stranieri: 7
+	Percentuale di comuni stranieri controllati: 0.060886506%, percentuale di comuni caduti sotto il dominio straniero: 15.217391%
+Siracusa, saldo = -2
+	Comuni stranieri controllati: 0, comuni controllati da stranieri: 2
+	Percentuale di comuni stranieri controllati: 0.0%, percentuale di comuni caduti sotto il dominio straniero: 9.523809%
+Brindisi, saldo = -2
+	Comuni stranieri controllati: 1, comuni controllati da stranieri: 3
+	Percentuale di comuni stranieri controllati: 0.012177302%, percentuale di comuni caduti sotto il dominio straniero: 15.000001%
+Vibo Valentia, saldo = -2
+	Comuni stranieri controllati: 0, comuni controllati da stranieri: 2
+	Percentuale di comuni stranieri controllati: 0.0%, percentuale di comuni caduti sotto il dominio straniero: 4.0%
+Matera, saldo = -3
+	Comuni stranieri controllati: 1, comuni controllati da stranieri: 4
+	Percentuale di comuni stranieri controllati: 0.012177302%, percentuale di comuni caduti sotto il dominio straniero: 12.903225%
+Isernia, saldo = -3
+	Comuni stranieri controllati: 2, comuni controllati da stranieri: 5
+	Percentuale di comuni stranieri controllati: 0.024354603%, percentuale di comuni caduti sotto il dominio straniero: 9.615385%
+Cuneo, saldo = -3
+	Comuni stranieri controllati: 2, comuni controllati da stranieri: 5
+	Percentuale di comuni stranieri controllati: 0.024354603%, percentuale di comuni caduti sotto il dominio straniero: 2.0242915%
+Terni, saldo = -3
+	Comuni stranieri controllati: 1, comuni controllati da stranieri: 4
+	Percentuale di comuni stranieri controllati: 0.012177302%, percentuale di comuni caduti sotto il dominio straniero: 12.121212%
+Potenza, saldo = -3
+	Comuni stranieri controllati: 2, comuni controllati da stranieri: 5
+	Percentuale di comuni stranieri controllati: 0.024354603%, percentuale di comuni caduti sotto il dominio straniero: 5.0%
+Prato, saldo = -3
+	Comuni stranieri controllati: 0, comuni controllati da stranieri: 3
+	Percentuale di comuni stranieri controllati: 0.0%, percentuale di comuni caduti sotto il dominio straniero: 42.857143%
+Chieti, saldo = -3
+	Comuni stranieri controllati: 1, comuni controllati da stranieri: 4
+	Percentuale di comuni stranieri controllati: 0.012177302%, percentuale di comuni caduti sotto il dominio straniero: 3.846154%
+Ancona, saldo = -3
+	Comuni stranieri controllati: 2, comuni controllati da stranieri: 5
+	Percentuale di comuni stranieri controllati: 0.024354603%, percentuale di comuni caduti sotto il dominio straniero: 10.638298%
+Palermo, saldo = -3
+	Comuni stranieri controllati: 0, comuni controllati da stranieri: 3
+	Percentuale di comuni stranieri controllati: 0.0%, percentuale di comuni caduti sotto il dominio straniero: 3.6585364%
+Cosenza, saldo = -4
+	Comuni stranieri controllati: 2, comuni controllati da stranieri: 6
+	Percentuale di comuni stranieri controllati: 0.024354603%, percentuale di comuni caduti sotto il dominio straniero: 4.0%
+Monza e della Brianza, saldo = -4
+	Comuni stranieri controllati: 0, comuni controllati da stranieri: 4
+	Percentuale di comuni stranieri controllati: 0.0%, percentuale di comuni caduti sotto il dominio straniero: 7.272727%
+Rieti, saldo = -4
+	Comuni stranieri controllati: 3, comuni controllati da stranieri: 7
+	Percentuale di comuni stranieri controllati: 0.036531907%, percentuale di comuni caduti sotto il dominio straniero: 9.589041%
+Genova, saldo = -4
+	Comuni stranieri controllati: 0, comuni controllati da stranieri: 4
+	Percentuale di comuni stranieri controllati: 0.0%, percentuale di comuni caduti sotto il dominio straniero: 5.970149%
+Trento, saldo = -4
+	Comuni stranieri controllati: 4, comuni controllati da stranieri: 8
+	Percentuale di comuni stranieri controllati: 0.048709206%, percentuale di comuni caduti sotto il dominio straniero: 4.5714283%
+Lodi, saldo = -4
+	Comuni stranieri controllati: 1, comuni controllati da stranieri: 5
+	Percentuale di comuni stranieri controllati: 0.012177302%, percentuale di comuni caduti sotto il dominio straniero: 8.333334%
+Savona, saldo = -5
+	Comuni stranieri controllati: 3, comuni controllati da stranieri: 8
+	Percentuale di comuni stranieri controllati: 0.036531907%, percentuale di comuni caduti sotto il dominio straniero: 11.594203%
+Messina, saldo = -6
+	Comuni stranieri controllati: 0, comuni controllati da stranieri: 6
+	Percentuale di comuni stranieri controllati: 0.0%, percentuale di comuni caduti sotto il dominio straniero: 5.555556%
+Biella, saldo = -6
+	Comuni stranieri controllati: 0, comuni controllati da stranieri: 6
+	Percentuale di comuni stranieri controllati: 0.0%, percentuale di comuni caduti sotto il dominio straniero: 8.108108%
+Oristano, saldo = -7
+	Comuni stranieri controllati: 0, comuni controllati da stranieri: 7
+	Percentuale di comuni stranieri controllati: 0.0%, percentuale di comuni caduti sotto il dominio straniero: 8.045978%
+Siena, saldo = -7
+	Comuni stranieri controllati: 0, comuni controllati da stranieri: 7
+	Percentuale di comuni stranieri controllati: 0.0%, percentuale di comuni caduti sotto il dominio straniero: 20.0%
+Padova, saldo = -8
+	Comuni stranieri controllati: 1, comuni controllati da stranieri: 9
+	Percentuale di comuni stranieri controllati: 0.012177302%, percentuale di comuni caduti sotto il dominio straniero: 8.823529%
+Pavia, saldo = -8
+	Comuni stranieri controllati: 6, comuni controllati da stranieri: 14
+	Percentuale di comuni stranieri controllati: 0.07306381%, percentuale di comuni caduti sotto il dominio straniero: 7.526882%
+Udine, saldo = -10
+	Comuni stranieri controllati: 2, comuni controllati da stranieri: 12
+	Percentuale di comuni stranieri controllati: 0.024354603%, percentuale di comuni caduti sotto il dominio straniero: 8.955224%
